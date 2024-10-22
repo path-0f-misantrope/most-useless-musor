@@ -1,0 +1,820 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;district;street;house_number;underground;residential_complex
+Адрес;developer;https://mytishchi.cian.ru/sale/flat/301890546/;Мытищи;sale;flat;4;16;2;36.2;6878000;;Троицкая ;3Г;Медведково;Адрес
+Василий Мельник;realtor;https://mytishchi.cian.ru/sale/flat/289793101/;Мытищи;sale;flat;2;13;2;63.1;9500000;; Колпакова;25;Медведково;
+Perspective-Realty;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308582240/;Мытищи;sale;flat;2;17;1;36.0;6500000;; Борисовка;4А;Медведково;
+Адрес;developer;https://mytishchi.cian.ru/sale/flat/306852801/;Мытищи;sale;flat;5;16;3;61.4;13446600;;Троицкая ;3Г;Медведково;Адрес
+Егор Петров;realtor;https://mytishchi.cian.ru/sale/flat/307477480/;Мытищи;sale;flat;13;24;1;34.1;7450000;;Юбилейная ;6;Медведково;Ярославский
+Валерий Станиславов;realtor;https://mytishchi.cian.ru/sale/flat/293720654/;Мытищи;sale;flat;11;13;1;33.6;3000000;; Стрелковая;8;Медведково;Bravo
+Адрес;developer;https://mytishchi.cian.ru/sale/flat/301890541/;Мытищи;sale;flat;4;16;-1;25.8;4992300;;Троицкая ;3Г;Медведково;Адрес
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308339795/;Мытищи;sale;flat;4;17;3;52.0;8800000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570207/;Мытищи;sale;flat;8;25;4;92.03;20840000;;;;Медведково;Страна.Парковая ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/299593899/;Мытищи;sale;flat;10;25;2;48.39;11346163;;;;Медведково;Кит 2 ЖК
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305185863/;Мытищи;sale;flat;6;16;3;52.0;9500000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+Роман Золотов;realtor;https://mytishchi.cian.ru/sale/flat/302737632/;Мытищи;sale;flat;3;17;1;26.2;5400000;;проспект Астрахова;9;Медведково;Лидер Парк
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/308023424/;Мытищи;sale;flat;12;25;1;36.85;10133575;;;;Медведково;Кит 2 ЖК
+MOD Estate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304494294/;Мытищи;sale;flat;3;16;3;65.0;9750000;;Олимпийский проспект;30;Медведково;
+Алена Косолапова;realtor;https://mytishchi.cian.ru/sale/flat/308628622/;Мытищи;sale;flat;11;16;2;41.0;7299000;;Олимпийский проспект;9к2;Медведково;
+Адрес;developer;https://mytishchi.cian.ru/sale/flat/307252549/;Мытищи;sale;flat;6;16;2;33.6;7392000;;Троицкая ;3Г;Медведково;Адрес
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307271098/;Мытищи;sale;flat;8;17;1;28.8;6400000;; 2-я Институтская;26А;Медведково;
+ID 49986000;homeowner;https://mytishchi.cian.ru/sale/flat/306311645/;Мытищи;sale;flat;11;16;2;54.0;9400000;; Воровского;1;Медведково;
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570258/;Мытищи;sale;flat;11;25;3;54.13;13560000;;;;Медведково;Страна.Парковая ЖК
+Метражи group;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306656982/;Мытищи;sale;flat;11;15;1;22.0;5850000;; Колпакова;44;Медведково;Dom Smile
+ID 96172;realtor;https://mytishchi.cian.ru/sale/flat/307432520/;Мытищи;sale;flat;5;5;1;32.2;4700000;; Терешковой;12;Медведково;
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/297125498/;Мытищи;sale;flat;24;25;3;53.68;15117284;;;;Медведково;Кит 2 ЖК
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305881499/;Мытищи;sale;flat;2;25;2;57.0;10800000;; Борисовка;24А;Медведково;Ярославский
+Анна Исаева;realtor;https://mytishchi.cian.ru/sale/flat/296576057/;Мытищи;sale;flat;2;4;2;40.8;6200000;; Щербакова;11а;Медведково;
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/303547356/;Мытищи;sale;flat;22;25;2;60.12;16228973;;Новомытищинский проспект;4А;Медведково;КИТ
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304135753/;Мытищи;sale;flat;23;25;2;58.2;11500000;;Медицинская ;2Б;Медведково;
+Три Ступени;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308208714/;Мытищи;sale;flat;4;5;1;32.0;4800000;;Новомытищинский проспект;82к5А;Медведково;
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304569618/;Мытищи;sale;flat;8;25;2;44.04;10740000;;;;Медведково;Страна.Парковая ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306939693/;Мытищи;sale;flat;9;25;1;32.3;6335451;;;;Ростокино;Ярославский квартал ЖК
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305286034/;Мытищи;sale;flat;2;18;1;25.3;5600000;;проспект Астрахова;1;Медведково;Новое Медведково
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306940014/;Мытищи;sale;flat;3;25;2;58.6;10685358;;;;Медведково;Ярославский квартал ЖК
+ID 21619422;unknown;https://mytishchi.cian.ru/sale/flat/301430060/;Мытищи;sale;flat;4;6;1;38.0;6450000;;бульвар Тенистый;19;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303513913/;Мытищи;sale;flat;2;24;3;81.3;15662282;;;к5;Медведково;Яуза Парк ЖК
+ID 22653;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307646099/;Мытищи;sale;flat;2;14;1;36.6;6600000;;Юбилейная ;36к2;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204894/;Мытищи;sale;flat;16;25;2;58.7;12134698;;;16.1;Медведково;Ярославский
+ID 123039874;homeowner;https://mytishchi.cian.ru/sale/flat/308448250/;Мытищи;sale;flat;4;5;2;45.3;6800000;;Новомытищинский проспект;12к1;Медведково;
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/303667643/;Мытищи;sale;flat;10;25;2;51.52;13482888;;;;Медведково;Кит 2 ЖК
+KRK COMFORT;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304492960/;Мытищи;sale;flat;4;7;1;37.0;6850000;;бульвар Тенистый;21;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306939832/;Мытищи;sale;flat;25;25;1;24.1;4895577;;;;Медведково;Ярославский квартал ЖК
+ID 21619422;unknown;https://mytishchi.cian.ru/sale/flat/302134598/;Мытищи;sale;flat;5;7;1;37.0;6990000;;бульвар Тенистый;10;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306940217/;Мытищи;sale;flat;18;25;2;49.3;9053057;;;;Ростокино;Ярославский квартал ЖК
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308675960/;Мытищи;sale;flat;2;5;3;54.9;7200000;; Тимирязева;4;Медведково;
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649652/;Мытищи;sale;flat;13;15;3;81.15;14458081;;;к5;Ростокино;Мытищи Парк ЖК
+ID 63683478;unknown;https://mytishchi.cian.ru/sale/flat/308909971/;Мытищи;sale;flat;2;9;1;32.0;7200000;;Летная ;32к2;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304076262/;Мытищи;sale;flat;17;23;2;35.4;7972025;;;к11.2;Медведково;Белый Grad ЖК
+НДВ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307342065/;Мытищи;sale;flat;4;6;1;38.6;7250000;; Красная Слобода;7;Медведково;Мытищи Lite
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075506/;Мытищи;sale;flat;18;23;3;63.7;12506850;;;к11.3;Медведково;Белый Grad ЖК
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308301914/;Мытищи;sale;flat;2;9;2;44.3;7250000;;Олимпийский проспект;32к3;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304076314/;Мытищи;sale;flat;14;20;2;46.7;9681528;;;к11.2;Медведково;Белый Grad ЖК
+ID 48869276;realtor;https://mytishchi.cian.ru/sale/flat/306268843/;Мытищи;sale;flat;1;5;2;44.1;7400000;; Терешковой;13;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304076259/;Мытищи;sale;flat;17;23;3;54.5;11125726;;;к11.2;Медведково;Белый Grad ЖК
+АНБИС;real_estate_agent;https://mytishchi.cian.ru/sale/flat/277200017/;Мытищи;sale;flat;5;9;2;44.2;7400000;; Колпакова;23к2;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075508/;Мытищи;sale;flat;21;23;1;38.1;8459882;;;к11.3;Медведково;Белый Grad ЖК
+Агентство недвижимости Светланы Наумовой;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308882115/;Мытищи;sale;flat;11;17;1;31.0;7500000;;переулок 1-й Стрелковый;1;Медведково;Мытищи Парк
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075431/;Мытищи;sale;flat;7;23;2;39.7;8389274;;;к11.3;Медведково;Белый Grad ЖК
+Максим Бовкун;realtor;https://mytishchi.cian.ru/sale/flat/306316272/;Мытищи;sale;flat;13;17;2;33.6;7500000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+ID 88599316;homeowner;https://mytishchi.cian.ru/sale/flat/308838209/;Мытищи;sale;flat;12;12;1;35.7;7600000;; Колпакова;42к1;Медведково;
+ID 268959;realtor;https://mytishchi.cian.ru/sale/flat/306839319/;Мытищи;sale;flat;11;17;2;34.1;7650000;; Стрельбище Динамо;10;Медведково;Мытищи Парк
+Дом Сегодня;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308807471/;Мытищи;sale;flat;4;25;1;40.9;7900000;; Борисовка;20;Медведково;Ярославский
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306939379/;Мытищи;sale;flat;20;24;2;53.1;9228142;;;1.3;Ростокино;Ярославский квартал ЖК
+Самолет Плюс Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308614054/;Мытищи;sale;flat;3;3;1;50.0;7900000;; Колпакова;8;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303513371/;Мытищи;sale;flat;10;16;1;35.9;8851504;;;4;Медведково;Яуза Парк ЖК
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306172224/;Мытищи;sale;flat;2;12;2;49.4;8050000;;Олимпийский проспект;6к2;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/308817449/;Мытищи;sale;flat;17;24;3;79.7;15574017;;;6;Медведково;Яуза Парк ЖК
+ID 78316069;homeowner;https://mytishchi.cian.ru/sale/flat/305494367/;Мытищи;sale;flat;2;17;1;36.6;8100000;;проспект Астрахова;7;Медведково;Лидер Парк
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649893/;Мытищи;sale;flat;16;17;1;21.9;5967609;;;к4.2;Медведково;Мытищи Парк ЖК
+ID 38943;realtor;https://mytishchi.cian.ru/sale/flat/305821618/;Мытищи;sale;flat;2;17;1;37.3;8190000;; Благовещенская;3;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303514119/;Мытищи;sale;flat;17;24;1;26.7;6907396;;;к5;Медведково;Яуза Парк ЖК
+ID 21619422;unknown;https://mytishchi.cian.ru/sale/flat/301647753/;Мытищи;sale;flat;5;7;2;55.0;8990000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/302567533/;Мытищи;sale;flat;18;25;2;43.84;12188083;;;;Медведково;Кит 2 ЖК
+ID 86488655;homeowner;https://mytishchi.cian.ru/sale/flat/308495135/;Мытищи;sale;flat;11;20;1;43.4;8950000;; Колпакова;10;Медведково;Комфортный КВАРТАЛ
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/284151522/;Мытищи;sale;flat;6;25;2;53.03;11891671;;;;Медведково;Кит 2 ЖК
+ID 21619422;unknown;https://mytishchi.cian.ru/sale/flat/303952572/;Мытищи;sale;flat;4;6;2;55.0;9200000;;бульвар Тенистый;12;Медведково;Императорские Мытищи
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/295398468/;Мытищи;sale;flat;9;25;1;38.76;9230765;;;;Медведково;Кит 2 ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204750/;Мытищи;sale;flat;9;25;2;48.7;10551342;;;16.1;Медведково;Ярославский
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307821545/;Мытищи;sale;flat;2;9;3;59.2;9550000;;Летная ;38к2;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205028/;Мытищи;sale;flat;17;25;2;56.1;12355912;;;16.2;Медведково;Ярославский
+ID 21619422;unknown;https://mytishchi.cian.ru/sale/flat/303642963/;Мытищи;sale;flat;5;7;2;52.0;9900000;;бульвар Тенистый;19;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306940238/;Мытищи;sale;flat;11;25;1;34.0;6193440;;;;Ростокино;Ярославский квартал ЖК
+ID 90885892;homeowner;https://mytishchi.cian.ru/sale/flat/307854064/;Мытищи;sale;flat;5;14;2;59.3;9950000;;Индустриальная ;7к3;Медведково;
+АРГУМЕНТ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306125401/;Мытищи;sale;flat;6;9;1;31.1;5800000;;Летная ;38к2;Медведково;
+Нина Коваленко;realtor;https://mytishchi.cian.ru/sale/flat/306838089/;Мытищи;sale;flat;7;9;1;35.0;6300000;;проезд 2-й Щелковский;5к2;Медведково;
+Алла Шульга;realtor;https://mytishchi.cian.ru/sale/flat/306884318/;Мытищи;sale;flat;2;5;2;53.0;7200000;;Летная ;16к3;Медведково;
+НДВ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308352618/;Мытищи;sale;flat;5;6;1;47.5;6450000;; Красная Слобода;9;Медведково;Мытищи Lite
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649614/;Мытищи;sale;flat;17;17;1;37.1;5952388;;;к6;Белокаменная;Мытищи Парк ЖК
+Елена Лунёва;realtor;https://mytishchi.cian.ru/sale/flat/306801006/;Мытищи;sale;flat;2;5;3;57.6;6600000;;Силикатная ;33В;Медведково;
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654342/;Мытищи;sale;flat;20;24;3;61.32;19222969;;;;Медведково;Долина Яузы ЖК
+ID 87589395;homeowner;https://mytishchi.cian.ru/sale/flat/308072603/;Мытищи;sale;flat;3;6;1;25.9;5450000;;бульвар Тенистый;6;Медведково;Императорские Мытищи
+Владислав Каплин;realtor;https://mytishchi.cian.ru/sale/flat/303766953/;Мытищи;sale;flat;7;17;1;32.0;5700000;; Советская;3А;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205272/;Мытищи;sale;flat;21;25;1;36.1;7505912;;;16.3;Медведково;Ярославский
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306492317/;Мытищи;sale;flat;4;5;1;30.5;4600000;;Силикатная ;31а;Медведково;
+ID 114305714;homeowner;https://mytishchi.cian.ru/sale/flat/299651869/;Мытищи;sale;flat;4;5;1;32.1;5600000;;Новомытищинский проспект;70;Медведково;
+ОГРК;real_estate_agent;https://mytishchi.cian.ru/sale/flat/288638824/;Мытищи;sale;flat;3;5;1;29.1;5400000;;Новомытищинский проспект;20;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204826/;Мытищи;sale;flat;19;25;1;25.5;5693742;;;16.1;Медведково;Ярославский
+Светлана Воронцова;realtor;https://mytishchi.cian.ru/sale/flat/307721694/;Мытищи;sale;flat;4;10;1;43.3;6300000;; Тимирязева;4к1;Медведково;Пироговский
+НДВ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/296750592/;Мытищи;sale;flat;7;7;-1;25.1;4150000;; Красная Слобода;13;Медведково;Мытищи Lite
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205110/;Мытищи;sale;flat;4;25;1;36.3;7841380;;;16.2;Медведково;Ярославский
+МИЭЛЬ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308153587/;Мытищи;sale;flat;4;5;1;31.4;5700000;;Индустриальная ;11;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306939524/;Мытищи;sale;flat;16;25;1;40.9;7288543;;;;Ростокино;Ярославский квартал ЖК
+Татьяна Вавилова;realtor;https://mytishchi.cian.ru/sale/flat/308242210/;Мытищи;sale;flat;7;14;4;127.0;26200000;; Веры Волошиной;9/24;Медведково;
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308111154/;Мытищи;sale;flat;3;5;2;44.0;5200000;; Советская;5;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306980878/;Мытищи;sale;flat;11;25;1;36.2;7646598;;;16.1;Медведково;Ярославский
+Светлана Никулина;realtor;https://mytishchi.cian.ru/sale/flat/307812781/;Мытищи;sale;flat;11;20;1;45.0;8990000;;Институтская ;6;Медведково;Комфортный КВАРТАЛ
+Василий Синицын;realtor;https://mytishchi.cian.ru/sale/flat/308620920/;Мытищи;sale;flat;2;6;1;22.3;5100000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570589/;Мытищи;sale;flat;14;25;3;57.65;13880000;;;;Медведково;Страна.Парковая ЖК
+Алина Николаева;realtor;https://mytishchi.cian.ru/sale/flat/308942834/;Мытищи;sale;flat;12;14;2;65.0;13000000;; Мира;35;Медведково;Ярославский
+Анна Белкина;realtor;https://mytishchi.cian.ru/sale/flat/308442120/;Мытищи;sale;flat;5;17;1;31.1;4800000;; Советская;3А;Медведково;
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570273/;Мытищи;sale;flat;11;25;3;60.58;14410000;;;;Медведково;Страна.Парковая ЖК
+Сергей Синицын;realtor;https://mytishchi.cian.ru/sale/flat/308902781/;Мытищи;sale;flat;10;17;1;32.0;7700000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306372000/;Мытищи;sale;flat;12;17;1;23.2;5000000;; Стрельбище Динамо;10;Медведково;Мытищи Парк
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205353/;Мытищи;sale;flat;21;25;2;46.2;9580401;;;16.3;Медведково;Ярославский
+Российское Деловое Агентство;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308926112/;Мытищи;sale;flat;15;27;3;97.0;22000000;; Борисовка;18;Медведково;Ярославский
+Надежда Половнева;realtor;https://mytishchi.cian.ru/sale/flat/305499319/;Мытищи;sale;flat;3;5;1;29.0;5500000;;Новомытищинский проспект;47к3;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/308126060/;Мытищи;sale;flat;23;24;1;33.9;7722148;;;6;Медведково;Яуза Парк ЖК
+Екатерина Юлаева;realtor;https://mytishchi.cian.ru/sale/flat/307270168/;Мытищи;sale;flat;2;9;1;31.5;6000000;;Летная ;32к2;Медведково;
+ID 19508;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308871730/;Мытищи;sale;flat;10;17;1;42.0;5800000;; Фабричная;11А;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303512857/;Мытищи;sale;flat;24;24;2;51.2;10113228;;;6;Медведково;Яуза Парк ЖК
+Павел Казаков;realtor;https://mytishchi.cian.ru/sale/flat/306887125/;Мытищи;sale;flat;2;4;1;32.2;5450000;;Новомытищинский проспект;28;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303513507/;Мытищи;sale;flat;15;25;3;86.0;17612112;;;2;Медведково;Яуза Парк ЖК
+ID 96230262;homeowner;https://mytishchi.cian.ru/sale/flat/297496457/;Мытищи;sale;flat;19;25;2;66.4;12700000;;Юбилейная ;28;Медведково;
+Марина Федяева;realtor;https://mytishchi.cian.ru/sale/flat/302784676/;Мытищи;sale;flat;1;6;1;41.0;6700000;; Красная Слобода;11;Медведково;Мытищи Lite
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/305892524/;Мытищи;sale;flat;11;18;4;80.3;18077023;;;;Медведково;Новое Медведково ЖК
+ID 10993009;homeowner;https://mytishchi.cian.ru/sale/flat/276071782/;Мытищи;sale;flat;13;17;1;25.0;6950000;;проспект Астрахова;7;Медведково;Лидер Парк
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649648/;Мытищи;sale;flat;2;15;1;22.81;4235285;;;к6;Белокаменная;Мытищи Парк ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303514275/;Мытищи;sale;flat;14;24;1;32.5;8105890;;;5;Медведково;Яуза Парк ЖК
+ID 12849145;homeowner;https://mytishchi.cian.ru/sale/flat/290166956/;Мытищи;sale;flat;7;15;-1;22.7;4580000;; Колпакова;44;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307399408/;Мытищи;sale;flat;2;7;1;22.1;3950000;;бульвар Тенистый;6;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303512895/;Мытищи;sale;flat;24;24;2;49.7;10251320;;;6;Медведково;Яуза Парк ЖК
+ID 100621020;homeowner;https://mytishchi.cian.ru/sale/flat/307251897/;Мытищи;sale;flat;9;18;2;56.4;12100000;;;к42;Медведково;Новое Медведково ЖК
+Самолет Плюс;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305336832/;Мытищи;sale;flat;5;5;2;42.8;6500000;;Олимпийский проспект;15к7;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/305804881/;Мытищи;sale;flat;15;17;2;45.8;11043711;;проспект Астрахова;14Б;Медведково;Новое Медведково
+Наталия  Акименко;realtor;https://mytishchi.cian.ru/sale/flat/304139980/;Мытищи;sale;flat;4;7;1;23.0;3850000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306225751/;Мытищи;sale;flat;9;9;1;28.4;6499000;;Шараповская ;2к1;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078922/;Мытищи;sale;flat;16;17;2;49.1;13203167;;;к35;Медведково;Новое Медведково ЖК
+Татьяна Кузнецова;realtor;https://mytishchi.cian.ru/sale/flat/301938681/;Мытищи;sale;flat;3;5;2;42.0;6100000;;Новомытищинский проспект;31к2;Медведково;
+ЕГСН Продажа;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302386558/;Мытищи;sale;flat;2;5;1;31.5;5500000;; Крупской;5а;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/305376481/;Мытищи;sale;flat;11;24;2;58.3;12035918;;;5;Медведково;Яуза Парк ЖК
+Мария Язвенко;realtor;https://mytishchi.cian.ru/sale/flat/290172896/;Мытищи;sale;flat;14;17;1;51.7;7300000;; Сазонова;5;Медведково;Пироговский
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308254170/;Мытищи;sale;flat;3;10;1;40.4;6000000;; Тимирязева;14;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075822/;Мытищи;sale;flat;4;20;2;40.6;9743383;;;;Медведково;Белый Grad ЖК
+Татьяна Карелова;realtor;https://mytishchi.cian.ru/sale/flat/280760667/;Мытищи;sale;flat;5;5;2;39.6;6300000;12;Новомытищинский проспект;47к3;;
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303679700/;Мытищи;sale;flat;5;14;1;33.5;6800000;; Сукромка;21;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304076172/;Мытищи;sale;flat;8;12;2;51.6;10281766;;;к11.2;Медведково;Белый Grad ЖК
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308885843/;Мытищи;sale;flat;2;3;-1;15.3;3380000;;проезд № 4530;1;Медведково;
+Акрополь;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307396944/;Мытищи;sale;flat;11;25;1;25.7;6190000;; Академика Каргина;36Б;Медведково;Отрадный
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/294039092/;Мытищи;sale;flat;16;25;1;33.99;10293593;;;;Медведково;Кит 2 ЖК
+МИЭЛЬ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308409422/;Мытищи;sale;flat;5;17;1;19.7;4500000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306939867/;Мытищи;sale;flat;2;25;2;51.0;9055560;;;;Медведково;Ярославский квартал ЖК
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305317955/;Мытищи;sale;flat;1;6;1;20.0;4500000;; Красная Слобода;5;Медведково;Мытищи Lite
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075408/;Мытищи;sale;flat;3;23;2;54.2;10813936;;;к11.3;Медведково;Белый Grad ЖК
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305737638/;Мытищи;sale;flat;5;7;1;26.4;4500000;;бульвар Тенистый;5;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303514351/;Мытищи;sale;flat;7;13;1;36.0;8809920;;;к1;Медведково;Яуза Парк ЖК
+Кристина Сёмочкина;realtor;https://mytishchi.cian.ru/sale/flat/306127296/;Мытищи;sale;flat;5;7;1;26.7;4550000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204978/;Мытищи;sale;flat;25;25;2;52.2;10987891;;;16.2;Медведково;Ярославский
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303215797/;Мытищи;sale;flat;1;7;1;22.5;4610000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/307882469/;Мытищи;sale;flat;20;25;1;20.0;5072880;;;16.3;Медведково;Ярославский
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/284151275/;Мытищи;sale;flat;9;25;2;53.91;13823117;;;;Медведково;Кит 2 ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205462/;Мытищи;sale;flat;22;25;3;75.8;16471643;;;16.3;Медведково;Ярославский
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305643065/;Мытищи;sale;flat;8;17;1;22.2;4700000;;;к4.1;Медведково;Мытищи Парк ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654345/;Мытищи;sale;flat;22;24;2;52.48;15997965;;;;Медведково;Долина Яузы ЖК
+EstateLiga;real_estate_agent;https://mytishchi.cian.ru/sale/flat/298340893/;Мытищи;sale;flat;4;6;1;23.0;4750000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654292/;Мытищи;sale;flat;13;24;3;81.55;25909508;;;;Медведково;Долина Яузы ЖК
+Самолет Плюс Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305465542/;Мытищи;sale;flat;9;17;1;21.9;4800000;;;;Медведково;Мытищи Парк ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/305892532/;Мытищи;sale;flat;18;18;2;39.4;11520216;;;;Медведково;Новое Медведково ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205208/;Мытищи;sale;flat;21;25;1;27.4;6140668;;;16.2;Медведково;Ярославский
+Эльмира Алаева;realtor;https://mytishchi.cian.ru/sale/flat/300236917/;Мытищи;sale;flat;5;7;1;23.0;4800000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/300275041/;Мытищи;sale;flat;10;25;3;77.91;19578465;;;;Медведково;Кит 2 ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/306093613/;Мытищи;sale;flat;11;20;2;52.3;11972326;;;;Медведково;Белый Grad ЖК
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306261000/;Мытищи;sale;flat;4;17;1;21.9;4800000;;;к4.2;Медведково;Мытищи Парк ЖК
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306832447/;Мытищи;sale;flat;10;19;1;38.9;7200000;; 2-я Институтская;18;Медведково;Спутник (Мытищи)
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654344/;Мытищи;sale;flat;17;24;2;53.97;16448208;;;;Медведково;Долина Яузы ЖК
+Ирина Дроздова;realtor;https://mytishchi.cian.ru/sale/flat/308541838/;Мытищи;sale;flat;2;4;-1;78.3;5600000;; Семашко;50/10к2;Медведково;
+М.Град;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306284416/;Мытищи;sale;flat;7;10;1;36.2;6850000;;Юбилейная ;37к3;Медведково;
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654323/;Мытищи;sale;flat;13;25;2;54.12;17502724;;;1;Медведково;Долина Яузы ЖК
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/294815588/;Мытищи;sale;flat;2;9;1;29.8;6600000;;Олимпийский проспект;13к3;Медведково;
+М.Град;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308209039/;Мытищи;sale;flat;3;5;1;30.6;5340000;;Первомайская ;21;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204558/;Мытищи;sale;flat;2;25;1;32.7;6952412;;;16.4;Медведково;Ярославский
+Александр Петрович Шамшурин;realtor;https://mytishchi.cian.ru/sale/flat/308013816/;Мытищи;sale;flat;2;17;1;31.0;6200000;; 2-я Институтская;28;Медведково;
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308803781/;Мытищи;sale;flat;1;6;1;38.0;6300000;;бульвар Тенистый;14;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303513845/;Мытищи;sale;flat;23;25;1;40.6;9394028;;;3;Медведково;Яуза Парк ЖК
+Совкомбанк;official_representative;https://mytishchi.cian.ru/sale/flat/299130849/;Мытищи;sale;flat;1;9;2;51.8;6050000;; Фабричная;6;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/308029867/;Мытищи;sale;flat;20;20;4;83.2;15407652;;;к11.2;Медведково;Белый Grad ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654335/;Мытищи;sale;flat;14;25;1;30.47;13116319;;;1;Медведково;Долина Яузы ЖК
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302974621/;Мытищи;sale;flat;10;17;1;44.0;6700000;; Советская;2А;Медведково;
+Самолет Плюс Москва ЦАО;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302072898/;Мытищи;sale;flat;5;7;1;35.5;6800000;;Осташковское шоссе;22к3;Медведково;Мытищи Lite
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204908/;Мытищи;sale;flat;17;25;2;46.2;9801422;;;16.1;Медведково;Ярославский
+Ирина Славинская;realtor;https://mytishchi.cian.ru/sale/flat/303264422/;Мытищи;sale;flat;11;17;1;23.2;4850000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+М.Град;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300552063/;Мытищи;sale;flat;7;9;1;34.6;6550000;; Терешковой;3;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205275/;Мытищи;sale;flat;17;25;1;34.3;7024365;;;16.3;Медведково;Ярославский
+Vysotsky Estate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308955441/;Мытищи;sale;flat;1;6;1;26.4;4950000;;бульвар Тенистый;13;Медведково;Императорские Мытищи
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307725305/;Мытищи;sale;flat;15;18;1;41.5;7200000;; Белобородова;4В;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204890/;Мытищи;sale;flat;23;25;1;32.5;6966700;;;16.1;Медведково;Ярославский
+Людмила Воронина;realtor;https://mytishchi.cian.ru/sale/flat/308169051/;Мытищи;sale;flat;2;5;1;32.1;5800000;;Новомытищинский проспект;58;Медведково;
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570461/;Мытищи;sale;flat;7;25;2;35.17;8750000;;;;Медведково;Страна.Парковая ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204575/;Мытищи;sale;flat;20;25;2;46.2;9622905;;;16.4;Медведково;Ярославский
+Традиция;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308897724/;Мытищи;sale;flat;5;6;1;39.6;6900000;;Осташковское шоссе;22к3;Медведково;Мытищи Lite
+Светлана Кумарина;realtor;https://mytishchi.cian.ru/sale/flat/306891324/;Мытищи;sale;flat;2;5;1;30.9;5499999;;Летная ;16к3;Медведково;
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649549/;Мытищи;sale;flat;4;17;1;48.74;7328608;;;к6;Белокаменная;Мытищи Парк ЖК
+SOLD.;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308076766/;Мытищи;sale;flat;8;9;1;32.6;5300000;; 1-я Пролетарская;7;Медведково;
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204725/;Мытищи;sale;flat;6;25;1;34.1;7074386;;;16.1;Медведково;Ярославский
+Марина Федяева;realtor;https://mytishchi.cian.ru/sale/flat/303342739/;Мытищи;sale;flat;4;7;1;23.2;5300000;;бульвар Тенистый;11;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303722009/;Мытищи;sale;flat;7;24;2;46.5;10121748;;;к5;Медведково;Яуза Парк ЖК
+МГСН;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303121522/;Мытищи;sale;flat;5;7;1;32.9;5300000;;бульвар Тенистый;3;Медведково;Императорские Мытищи
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/288468890/;Мытищи;sale;flat;15;25;1;25.68;7944242;;;;Медведково;Кит 2 ЖК
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306556429/;Мытищи;sale;flat;10;23;1;21.7;5300000;;;;Медведково;Белый Grad ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204533/;Мытищи;sale;flat;23;25;1;23.6;5252132;;;16.4;Медведково;Ярославский
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/294212612/;Мытищи;sale;flat;1;5;1;30.9;5300000;;Новомытищинский проспект;10к1;Медведково;
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/303791995/;Мытищи;sale;flat;14;25;2;43.17;10398273;;;;Медведково;Кит 2 ЖК
+Больше метров;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306542622/;Мытищи;sale;flat;6;6;1;24.5;5350000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/308482211/;Мытищи;sale;flat;14;25;2;60.7;13402560;;;16.2;Медведково;Ярославский
+Евгений Крыжановский;realtor;https://mytishchi.cian.ru/sale/flat/302133833/;Мытищи;sale;flat;1;9;1;32.1;5390000;;Юбилейная ;27к2;Медведково;
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570411/;Мытищи;sale;flat;12;25;3;62.44;14660000;;;;Медведково;Страна.Парковая ЖК
+Галина Крючкова;realtor;https://mytishchi.cian.ru/sale/flat/308901847/;Мытищи;sale;flat;3;7;1;30.3;5350000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075678/;Мытищи;sale;flat;16;20;3;62.4;13630795;;;;Медведково;Белый Grad ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204954/;Мытищи;sale;flat;22;25;1;20.0;5163040;;;16.1;Медведково;Ярославский
+RainbowEstate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306312444/;Мытищи;sale;flat;2;9;1;31.1;5400000;;Летная ;24к3;Медведково;
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075522/;Мытищи;sale;flat;23;23;4;79.5;14800700;;;к11.3;Медведково;Белый Grad ЖК
+МИЦ-Столичный ипотечный центр недвижимости;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302784985/;Мытищи;sale;flat;10;17;1;20.0;5400000;; Стрельбище Динамо;10;Медведково;Мытищи Парк
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304079017/;Мытищи;sale;flat;7;18;2;50.8;10462858;;;к41;Медведково;Новое Медведково ЖК
+Марина Федяева;realtor;https://mytishchi.cian.ru/sale/flat/303345819/;Мытищи;sale;flat;2;7;1;22.3;5400000;;бульвар Тенистый;17;Медведково;Императорские Мытищи
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649877/;Мытищи;sale;flat;15;17;1;25.5;6202358;;;к4.2;Медведково;Мытищи Парк ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204656/;Мытищи;sale;flat;5;25;1;20.0;5146480;;;16.4;Медведково;Ярославский
+EstateLiga;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307079002/;Мытищи;sale;flat;4;6;1;27.9;5400000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Ирина Алексеева;realtor;https://mytishchi.cian.ru/sale/flat/307037181/;Мытищи;sale;flat;3;5;1;34.0;5850000;; Крупской;7;Медведково;
+Метражи group;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306100317/;Мытищи;sale;flat;3;18;1;27.5;6400000;;проспект Астрахова;1к1;Медведково;Новое Медведково
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306365473/;Мытищи;sale;flat;10;18;1;20.0;6200000;; Мира;37;Медведково;Ярославский
+Евгений Клюкин;realtor;https://mytishchi.cian.ru/sale/flat/306948444/;Мытищи;sale;flat;5;5;1;31.0;6200000;; Терешковой;6А;Медведково;
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303932089/;Мытищи;sale;flat;5;6;1;35.9;7300000;;бульвар Тенистый;8;Медведково;Императорские Мытищи
+Наталья Пугачева;realtor;https://mytishchi.cian.ru/sale/flat/303071971/;Мытищи;sale;flat;13;13;1;35.0;7300000;; Академика Каргина;25;Медведково;Отрадный
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078954/;Мытищи;sale;flat;7;18;3;68.2;17019072;;проспект Астрахова;3А;Медведково;Новое Медведково
+Максим Петров;realtor;https://mytishchi.cian.ru/sale/flat/307750242/;Мытищи;sale;flat;8;19;1;29.5;6000000;; 2-я Институтская;26;Медведково;
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307406717/;Мытищи;sale;flat;6;7;-1;25.2;5200000;;Осташковское шоссе;22к6;Медведково;Мытищи Lite
+Место;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304285920/;Мытищи;sale;flat;14;17;1;23.1;5180000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Home Market;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306925198/;Мытищи;sale;flat;7;9;1;37.5;6999990;; Мира;31;Медведково;
+Инна Година;realtor;https://mytishchi.cian.ru/sale/flat/308292964/;Мытищи;sale;flat;13;17;1;24.0;5600000;мкр. Олимпийский;переулок 1-й Стрелковый;1;;Мытищи Парк
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302348042/;Мытищи;sale;flat;3;18;1;38.0;6950000;; Стрелковая;6;Медведково;Квартал 29
+Цитадель;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307933046/;Мытищи;sale;flat;23;25;1;29.3;6999000;; Борисовка;26;Медведково;Ярославский
+ГОРОБМЕН;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306539779/;Мытищи;sale;flat;10;16;2;34.1;7000000;;;к4.1;Медведково;Мытищи Парк ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075659/;Мытищи;sale;flat;12;20;2;40.4;9742618;;;;Медведково;Белый Grad ЖК
+Елена Анатольевна Мелехина;realtor;https://mytishchi.cian.ru/sale/flat/303572197/;Мытищи;sale;flat;4;5;1;31.4;5800000;;Новомытищинский проспект;10к1;Медведково;
+Мой Дом - отделение Добрынинское;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308407642/;Мытищи;sale;flat;4;6;1;33.0;6700000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204777/;Мытищи;sale;flat;23;25;2;58.7;12005089;;;16.1;Медведково;Ярославский
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078968/;Мытищи;sale;flat;2;16;2;62.3;12125232;;проспект Астрахова;14Б;Медведково;Новое Медведково
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306532954/;Мытищи;sale;flat;8;13;2;50.6;12015071;;;1;Медведково;Яуза Парк ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205149/;Мытищи;sale;flat;25;25;2;56.1;12216560;;;16.2;Медведково;Ярославский
+;;https://mytishchi.cian.ru/sale/flat/276725025/;Мытищи;sale;flat;4;10;2;53.7;12166000;;Новомытищинский проспект;62к1;Медведково;Атлантис
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/305993556/;Мытищи;sale;flat;8;24;2;58.5;12152556;;;5;Медведково;Яуза Парк ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205436/;Мытищи;sale;flat;22;25;2;58.7;12372316;;;16.3;Медведково;Ярославский
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654312/;Мытищи;sale;flat;18;24;1;28.48;12258868;;;;Медведково;Долина Яузы ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649827/;Мытищи;sale;flat;8;17;2;59.9;12384485;;;к4.2;Медведково;Мытищи Парк ЖК
+;;https://mytishchi.cian.ru/sale/flat/301784047/;Мытищи;sale;flat;10;17;2;51.7;12341307;;Пионерская ;10;Медведково;Мытищи Сити
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654311/;Мытищи;sale;flat;24;24;1;51.58;12410235;;;;Медведково;Долина Яузы ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303513225/;Мытищи;sale;flat;23;24;2;61.1;12405988;;;6;Медведково;Яуза Парк ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078996/;Мытищи;sale;flat;17;17;2;56.7;12486615;;;к39;Медведково;Новое Медведково ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570224/;Мытищи;sale;flat;9;25;3;54.28;12580000;;;;Медведково;Страна.Парковая ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306940118/;Мытищи;sale;flat;23;25;3;78.2;12590200;;;;Медведково;Ярославский квартал ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654309/;Мытищи;sale;flat;10;24;1;28.64;12597050;;;;Медведково;Долина Яузы ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654307/;Мытищи;sale;flat;22;24;1;33.07;12615145;;;;Медведково;Долина Яузы ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/305892546/;Мытищи;sale;flat;18;18;2;56.4;12515939;;;к41;Медведково;Новое Медведково ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/308023415/;Мытищи;sale;flat;7;25;2;49.51;12659806;;;;Медведково;Кит 2 ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/302089156/;Мытищи;sale;flat;23;25;2;51.16;12667994;;;;Медведково;Кит 2 ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654308/;Мытищи;sale;flat;20;24;1;31.48;12659888;;;;Медведково;Долина Яузы ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/308774198/;Мытищи;sale;flat;3;17;2;62.4;12691919;;;к39;Медведково;Новое Медведково ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075135/;Мытищи;sale;flat;10;17;3;73.2;12651516;;;к11.1;Медведково;Белый Grad ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/308029870/;Мытищи;sale;flat;20;20;3;52.4;12671753;;;;Медведково;Белый Grad ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/299517128/;Мытищи;sale;flat;6;25;2;54.67;12889710;;Новомытищинский проспект;4А;Медведково;КИТ
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306204646/;Мытищи;sale;flat;3;25;2;58.6;12852620;;;16.4;Медведково;Ярославский
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075270/;Мытищи;sale;flat;16;23;2;55.6;12845822;;;;Медведково;Белый Grad
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303513282/;Мытищи;sale;flat;2;16;2;58.7;12917756;;;4;Медведково;Яуза Парк ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078911/;Мытищи;sale;flat;3;17;2;49.1;12917646;;;к35;Медведково;Новое Медведково ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570569/;Мытищи;sale;flat;12;25;3;59.1;13110000;;;;Медведково;Страна.Парковая ЖК
+;;https://mytishchi.cian.ru/sale/flat/276725043/;Мытищи;sale;flat;7;10;2;55.1;13131706;;Новомытищинский проспект;62к1;Медведково;Атлантис
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075868/;Мытищи;sale;flat;15;23;3;59.5;13077725;;;;Медведково;Белый Grad ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075918/;Мытищи;sale;flat;17;23;3;59.4;13115756;;;;Медведково;Белый Grad ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306205163/;Мытищи;sale;flat;24;25;2;60.7;13235028;;;16.2;Медведково;Ярославский
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649667/;Мытищи;sale;flat;8;16;3;71.55;13213545;;;к5;Ростокино;Мытищи Парк ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/306915569/;Мытищи;sale;flat;10;20;3;63.0;13273172;;;;Медведково;Белый Grad ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075825/;Мытищи;sale;flat;8;20;3;61.4;13194792;;;;Медведково;Белый Grad ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570520/;Мытищи;sale;flat;3;25;3;57.34;13430000;;;;Медведково;Страна.Парковая ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570328/;Мытищи;sale;flat;2;25;2;63.27;13450000;;;;Медведково;Страна.Парковая ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304569472/;Мытищи;sale;flat;2;25;3;52.0;13460000;;;;Медведково;Страна.Парковая ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/294993328/;Мытищи;sale;flat;5;25;2;58.2;13431000;;Новомытищинский проспект;4А;Медведково;КИТ
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306939418/;Мытищи;sale;flat;23;24;3;82.4;13418016;;;1.3;Ростокино;Ярославский квартал ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570553/;Мытищи;sale;flat;10;25;3;57.65;13690000;;;;Медведково;Страна.Парковая ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/308774202/;Мытищи;sale;flat;2;17;3;64.9;13626522;;;к39;Медведково;Новое Медведково ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/302567530/;Мытищи;sale;flat;6;25;2;53.91;13681339;;;;Медведково;Кит 2 ЖК
+;;https://mytishchi.cian.ru/sale/flat/276725481/;Мытищи;sale;flat;12;17;2;59.5;13694440;;Новомытищинский проспект;62к1;Медведково;Атлантис
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078992/;Мытищи;sale;flat;9;17;3;60.1;13596275;;;к39;Медведково;Новое Медведково ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/305892537/;Мытищи;sale;flat;2;18;3;67.4;13678118;;;к41;Медведково;Новое Медведково ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075683/;Мытищи;sale;flat;18;20;3;62.3;13668897;;;;Медведково;Белый Grad ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/305938497/;Мытищи;sale;flat;11;25;3;62.44;13710000;;;;Медведково;Страна.Парковая ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570444/;Мытищи;sale;flat;3;25;3;60.93;13790000;;;;Медведково;Страна.Парковая ЖК
+ИНВЕСТ-СТРОЙ;developer;https://mytishchi.cian.ru/sale/flat/308944010/;Мытищи;sale;flat;21;22;3;78.3;13702500;;Медицинская ;11;Медведково;Отрадный
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/306939707/;Мытищи;sale;flat;15;25;3;84.9;13770440;;;;Ростокино;Ярославский квартал ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570437/;Мытищи;sale;flat;10;25;2;59.53;13860000;;;;Медведково;Страна.Парковая ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/308029856/;Мытищи;sale;flat;15;20;3;71.4;14500003;;;;Медведково;Белый Grad ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304075603/;Мытищи;sale;flat;4;17;3;73.0;14540917;;;;Медведково;Белый Grad ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304569476/;Мытищи;sale;flat;2;25;3;66.43;14630000;;;;Медведково;Страна.Парковая ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078910/;Мытищи;sale;flat;3;17;2;57.7;14693333;;;к35;Медведково;Новое Медведково ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/308029883/;Мытищи;sale;flat;2;18;3;67.4;14749080;;;;Медведково;Новое Медведково ЖК
+Юлия Садчикова;realtor;https://mytishchi.cian.ru/sale/flat/308780844/;Мытищи;sale;flat;6;12;3;70.2;14900000;;Новомытищинский проспект;3/12;Медведково;
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/297125512/;Мытищи;sale;flat;24;25;3;53.68;14941951;;;;Медведково;Кит 2 ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/308481250/;Мытищи;sale;flat;25;25;3;92.1;14802680;;;;Ростокино;Ярославский квартал ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649826/;Мытищи;sale;flat;7;12;3;68.1;14933879;;;к4.2;Медведково;Мытищи Парк ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/305036620/;Мытищи;sale;flat;10;17;3;70.4;14853093;;;;Медведково;Белый Grad ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649825/;Мытищи;sale;flat;15;17;3;77.7;14953520;;;к4.2;Медведково;Мытищи Парк ЖК
+;;https://mytishchi.cian.ru/sale/flat/307780812/;Мытищи;sale;flat;3;17;2;70.7;15039000;;Пионерская ;10;Медведково;Мытищи Сити
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/303513275/;Мытищи;sale;flat;2;16;2;65.3;15187681;;;4;Медведково;Яуза Парк ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649824/;Мытищи;sale;flat;16;17;3;79.8;15201347;;;к4.2;Медведково;Мытищи Парк ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308649823/;Мытищи;sale;flat;3;12;3;76.0;15244104;;;к4.2;Медведково;Мытищи Парк ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570429/;Мытищи;sale;flat;7;25;3;68.16;15380000;;;;Медведково;Страна.Парковая ЖК
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304569552/;Мытищи;sale;flat;6;25;3;67.08;15270000;;;;Медведково;Страна.Парковая ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/308812188/;Мытищи;sale;flat;16;25;3;60.57;15423181;;;;Медведково;Кит 2 ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654329/;Мытищи;sale;flat;2;25;1;46.79;15377942;;;1;Медведково;Долина Яузы ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654349/;Мытищи;sale;flat;23;24;2;48.14;15584178;;;;Медведково;Долина Яузы ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/305376383/;Мытищи;sale;flat;23;24;3;79.8;15564192;;;6;Медведково;Яуза Парк ЖК
+ПИК;developer;https://mytishchi.cian.ru/sale/flat/305376499/;Мытищи;sale;flat;22;24;3;81.5;15903258;;;к5;Медведково;Яуза Парк ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654326/;Мытищи;sale;flat;25;25;1;44.92;15980745;;;1;Медведково;Долина Яузы ЖК
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078928/;Мытищи;sale;flat;17;17;3;66.4;15962577;;;к35;Медведково;Новое Медведково ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654297/;Мытищи;sale;flat;16;24;2;56.07;18309106;;;;Медведково;Долина Яузы ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/298075702/;Мытищи;sale;flat;22;25;3;72.04;18803009;;;;Медведково;Кит 2 ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654320/;Мытищи;sale;flat;19;25;2;57.15;18651462;;;1;Медведково;Долина Яузы ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308650003/;Мытищи;sale;flat;4;17;2;56.0;18805519;; Стрельбище Динамо;10;Белокаменная;Мытищи Парк
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654317/;Мытищи;sale;flat;24;25;2;58.47;19139913;;;1;Медведково;Долина Яузы ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/291971130/;Мытищи;sale;flat;19;25;2;72.12;19313664;;Новомытищинский проспект;4А;Медведково;КИТ
+INGRAD;developer;https://mytishchi.cian.ru/sale/flat/304078916/;Мытищи;sale;flat;6;17;4;87.2;19547690;;;к35;Медведково;Новое Медведково ЖК
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/288214343/;Мытищи;sale;flat;23;25;2;70.1;19918581;;Новомытищинский проспект;4А;Медведково;КИТ
+ID 74213549;homeowner;https://mytishchi.cian.ru/sale/flat/290457451/;Мытищи;sale;flat;22;24;3;93.8;20150000;; Мира;41;Медведково;Ярославский
+Страна Девелопмент;developer;https://mytishchi.cian.ru/sale/flat/304570137/;Мытищи;sale;flat;3;25;4;93.1;20860000;;;;Медведково;Страна.Парковая ЖК
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308654315/;Мытищи;sale;flat;10;25;3;68.61;20814078;;;1;Медведково;Долина Яузы ЖК
+;;https://mytishchi.cian.ru/sale/flat/306324758/;Мытищи;sale;flat;16;17;3;98.7;20871102;;Пионерская ;10;Медведково;Мытищи Сити
+;;https://mytishchi.cian.ru/sale/flat/301784027/;Мытищи;sale;flat;5;17;3;106.9;20973780;;Пионерская ;10;Медведково;Мытищи Сити
+Инвест груп;developer;https://mytishchi.cian.ru/sale/flat/308464362/;Мытищи;sale;flat;20;25;3;73.2;21188695;;Новомытищинский проспект;4А;Бабушкинская;КИТ
+Самолет;developer;https://mytishchi.cian.ru/sale/flat/308650001/;Мытищи;sale;flat;17;17;3;75.7;23915172;; Стрельбище Динамо;10;Белокаменная;Мытищи Парк
+СЛУЖБА 925;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300888687/;Мытищи;sale;flat;1;9;-1;48.3;3750000;;Станционная ;3к1;Медведково;
+ИП Макарова Л. А.;real_estate_agent;https://mytishchi.cian.ru/sale/flat/299847925/;Мытищи;sale;flat;9;15;-1;22.4;4734000;; Колпакова;44;Медведково;
+ID 97308249;realtor;https://mytishchi.cian.ru/sale/flat/304687172/;Мытищи;sale;flat;6;17;1;39.0;5350000;; Советская;3А;Медведково;
+ID 102857532;homeowner;https://mytishchi.cian.ru/sale/flat/307272280/;Мытищи;sale;flat;3;5;2;40.8;6100000;;Первомайская ;19А;Медведково;
+ID 97308249;realtor;https://mytishchi.cian.ru/sale/flat/304687377/;Мытищи;sale;flat;9;17;2;54.0;6250000;; Советская;3А;Медведково;
+Наталья Алексанина;realtor;https://mytishchi.cian.ru/sale/flat/307821320/;Мытищи;sale;flat;9;12;2;46.0;6600000;;Силикатная ;37;Медведково;
+ID 43640310;homeowner;https://mytishchi.cian.ru/sale/flat/307085730/;Мытищи;sale;flat;2;6;1;35.0;6700000;;бульвар Тенистый;13;Медведково;Императорские Мытищи
+ID 12369177;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306149240/;Мытищи;sale;flat;14;17;1;36.4;7100000;;Юбилейная ;24;Медведково;
+ID 40137576;homeowner;https://mytishchi.cian.ru/sale/flat/307918859/;Мытищи;sale;flat;5;20;1;40.0;8000000;; Стрелковая;6;Медведково;Квартал 29
+CENTURY 21 Перспектива;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308802736/;Мытищи;sale;flat;8;25;1;47.8;8180000;;Юбилейная ;28;Медведково;
+Татьяна Шишкина;realtor;https://mytishchi.cian.ru/sale/flat/298404778/;Мытищи;sale;flat;10;18;2;56.6;10250000;;проспект Астрахова;14;Медведково;Новое Медведково
+Елена Петухова;realtor;https://mytishchi.cian.ru/sale/flat/292551469/;Мытищи;sale;flat;15;16;2;66.95;13500000;; Белобородова;2к3;Медведково;
+ID 105912787;homeowner;https://mytishchi.cian.ru/sale/flat/308021715/;Мытищи;sale;flat;9;12;2;63.5;13450000;; Колпакова;34б;Медведково;Орион
+ID 99147211;homeowner;https://mytishchi.cian.ru/sale/flat/308909122/;Мытищи;sale;flat;4;14;2;68.3;16000000;; Веры Волошиной;56;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303955716/;Мытищи;sale;flat;2;3;-1;9.2;2318400;;проезд № 4530;1;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304065606/;Мытищи;sale;flat;3;3;-1;9.0;2363000;;проезд № 4530;1;Медведково;
+Юрий Бикеев;realtor;https://mytishchi.cian.ru/sale/flat/304678129/;Мытищи;sale;flat;5;9;-1;58.7;2500000;;Новомытищинский проспект;52;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303814550/;Мытищи;sale;flat;3;3;-1;11.3;2670000;;проезд № 4530;1;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303910607/;Мытищи;sale;flat;2;3;-1;12.2;2754150;;проезд № 4530;1;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303814547/;Мытищи;sale;flat;3;3;-1;11.9;2811375;;проезд № 4530;с1;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305074816/;Мытищи;sale;flat;2;3;-1;12.7;2867025;;проезд № 4530;1;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304072221/;Мытищи;sale;flat;1;3;-1;13.8;2898000;;проезд № 4530;1;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303955390/;Мытищи;sale;flat;1;3;-1;13.7;2877000;;проезд № 4530;1;Медведково;
+Марина Федяева;realtor;https://mytishchi.cian.ru/sale/flat/308700348/;Мытищи;sale;flat;2;3;-1;12.7;2867025;;проезд № 4530;с1;Медведково;
+Владислав Кирилловский;realtor;https://mytishchi.cian.ru/sale/flat/307796807/;Мытищи;sale;flat;2;20;-1;13.8;2898000;;Шараповский проезд;вл2с3;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303866068/;Мытищи;sale;flat;3;3;-1;12.4;2929500;;проезд № 4530;1;Медведково;
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303817264/;Мытищи;sale;flat;3;3;-1;11.8;2920500;;проезд № 4530;1;Медведково;
+Спецтехнология;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308345609/;Мытищи;sale;flat;9;17;1;21.9;4850000;;;к4.1;Медведково;Мытищи Парк ЖК
+Анна Белкина;realtor;https://mytishchi.cian.ru/sale/flat/305916932/;Мытищи;sale;flat;12;17;1;31.1;4850000;; Советская;3А;Медведково;
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305868964/;Мытищи;sale;flat;7;15;-1;22.7;4900000;; Колпакова;44;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308148563/;Мытищи;sale;flat;11;17;1;21.5;4990000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304584020/;Мытищи;sale;flat;8;16;-1;22.0;4950000;;Силикатная ;10А;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/301030694/;Мытищи;sale;flat;4;5;2;45.5;4990000;; Пролетарская;4;Медведково;
+PORTAL ESTATE;real_estate_agent;https://mytishchi.cian.ru/sale/flat/296603175/;Мытищи;sale;flat;5;5;2;54.0;5000000;; Зеленая;7;Медведково;
+Наталья Хомова;realtor;https://mytishchi.cian.ru/sale/flat/305819678/;Мытищи;sale;flat;3;6;1;29.7;5099000;;бульвар Тенистый;1;Медведково;
+Импульс Плюс;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306883004/;Мытищи;sale;flat;21;25;1;18.7;5100000;;Медицинская ;11;Медведково;
+ГОРОБМЕН;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307184151/;Мытищи;sale;flat;4;7;1;36.4;5100000;; Красная Слобода;5;Медведково;Мытищи Lite
+Уютный Дом;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303139856/;Мытищи;sale;flat;5;17;1;40.0;5100000;; Советская;3А;Медведково;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306758012/;Мытищи;sale;flat;12;15;-1;23.0;5190000;; Колпакова;44;Медведково;
+Наталья Караман;realtor;https://mytishchi.cian.ru/sale/flat/297714643/;Мытищи;sale;flat;11;18;1;22.6;5180000;;проспект Астрахова;7;Медведково;Лидер Парк
+Владислав Каплин;realtor;https://mytishchi.cian.ru/sale/flat/302484214/;Мытищи;sale;flat;5;5;1;31.0;5200000;;Проезжая ;4;Медведково;
+Capital Mars;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308062966/;Мытищи;sale;flat;6;6;1;25.0;5500000;;бульвар Тенистый;8;Медведково;Императорские Мытищи
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308452985/;Мытищи;sale;flat;6;17;1;22.0;5500000;;;4.2;Медведково;Мытищи Парк ЖК
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305643896/;Мытищи;sale;flat;7;22;1;22.0;5500000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Людмила Левченко;realtor;https://mytishchi.cian.ru/sale/flat/300862311/;Мытищи;sale;flat;1;5;1;31.9;5550000;;Новомытищинский проспект;80к1;Медведково;
+ВРЕМЯ РЕШЕНИЙ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304647345/;Мытищи;sale;flat;1;6;1;33.1;5600000;;бульвар Тенистый;13;Медведково;Императорские Мытищи
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302629551/;Мытищи;sale;flat;3;17;1;24.5;5600000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Алина Тимофеева;realtor;https://mytishchi.cian.ru/sale/flat/300555026/;Мытищи;sale;flat;1;9;1;32.0;5600000;;Юбилейная ;25к1;Медведково;
+Самолет Плюс;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302327136/;Мытищи;sale;flat;2;6;1;34.8;5650000;;бульвар Тенистый;1;Медведково;
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308015454/;Мытищи;sale;flat;6;6;1;34.5;5700000;;бульвар Тенистый;5;Медведково;Императорские Мытищи
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303482037/;Мытищи;sale;flat;2;6;1;32.3;5700000;;бульвар Тенистый;1;Медведково;Императорские Мытищи
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/301110515/;Мытищи;sale;flat;4;17;1;25.6;5700000;; Стрельбище Динамо;10;Медведково;Мытищи Парк
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304113449/;Мытищи;sale;flat;7;9;1;31.0;5750000;; Академика Каргина;38к1;Медведково;
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307544501/;Мытищи;sale;flat;17;25;1;25.4;5790000;;Ярославское шоссе;105;Медведково;Академик
+Алексей Николаевич Туркин;realtor;https://mytishchi.cian.ru/sale/flat/303951661/;Мытищи;sale;flat;6;17;1;48.0;5750000;; Советская;3А;Медведково;
+Марина Федяева;realtor;https://mytishchi.cian.ru/sale/flat/307805268/;Мытищи;sale;flat;4;6;1;26.0;5750000;;бульвар Тенистый;13;Медведково;Императорские Мытищи
+Марина Федяева;realtor;https://mytishchi.cian.ru/sale/flat/302925181/;Мытищи;sale;flat;4;7;1;26.4;5750000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+ВРЕМЯ РЕШЕНИЙ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305884646/;Мытищи;sale;flat;5;6;1;26.7;5800000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+ВРЕМЯ РЕШЕНИЙ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306098477/;Мытищи;sale;flat;6;6;1;23.7;5800000;;бульвар Тенистый;13;Медведково;Императорские Мытищи
+НДВ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307007347/;Мытищи;sale;flat;4;9;1;31.8;5800000;;Олимпийский проспект;4;Медведково;
+Лидер-Estate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307111747/;Мытищи;sale;flat;5;6;1;34.0;5800000;;бульвар Тенистый;5;Медведково;Императорские Мытищи
+Ольга Никитина;realtor;https://mytishchi.cian.ru/sale/flat/298275156/;Мытищи;sale;flat;6;18;1;30.1;5800000;; 2-я Институтская;24А;Медведково;Спутник (Мытищи)
+Никита Романов;realtor;https://mytishchi.cian.ru/sale/flat/268702594/;Мытищи;sale;flat;7;17;1;44.0;5850000;; Фабричная;13;Медведково;
+Кремлёвские Ключи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304683648/;Мытищи;sale;flat;4;6;1;36.4;5990000;;бульвар Тенистый;1;Медведково;Императорские Мытищи
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305188058/;Мытищи;sale;flat;4;25;1;21.7;5950000;;проезд 1-й Щелковский;6;Медведково;Отрадный
+Владимир Ломанов;realtor;https://mytishchi.cian.ru/sale/flat/308509220/;Мытищи;sale;flat;9;17;1;30.0;5950000;; 2-я Институтская;28;Медведково;
+Анна Николаевская;realtor;https://mytishchi.cian.ru/sale/flat/305540266/;Мытищи;sale;flat;9;17;1;31.4;5990000;;проспект Астрахова;2;Медведково;Новое Медведково
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307754987/;Мытищи;sale;flat;3;9;1;31.0;5900000;;Юбилейная ;23к1;Медведково;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306410715/;Мытищи;sale;flat;16;20;1;20.0;5999000;; Мира;49;Медведково;Ярославский
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305308618/;Мытищи;sale;flat;15;18;1;21.5;5900000;; Разведчика Абеля;1;Медведково;Новое Медведково
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305691536/;Мытищи;sale;flat;12;13;1;20.0;6000000;;Юбилейная ;10;Медведково;Ярославский
+1ДАН Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306952888/;Мытищи;sale;flat;4;9;2;42.7;6000000;; Академика Каргина;38к1;Медведково;
+СВОЙ ДОМ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302648017/;Мытищи;sale;flat;11;17;1;31.1;6000000;; Кедрина;3;Медведково;Лидер Парк
+МИЦ-Столичный ипотечный центр недвижимости;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302784981/;Мытищи;sale;flat;14;17;1;25.5;6000000;; Стрельбище Динамо;10;Медведково;Мытищи Парк
+Ирина Чурикова;realtor;https://mytishchi.cian.ru/sale/flat/308311146/;Мытищи;sale;flat;7;18;1;27.0;6000000;; Кедрина;3;Медведково;Лидер Парк
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308518835/;Мытищи;sale;flat;13;18;1;27.2;6000000;; Кедрина;1;Медведково;Лидер Парк
+Купим Вместе;real_estate_agent;https://mytishchi.cian.ru/sale/flat/298126338/;Мытищи;sale;flat;2;9;1;31.3;6000000;;Новомытищинский проспект;52;Медведково;
+Ольга Иванова;realtor;https://mytishchi.cian.ru/sale/flat/296313173/;Мытищи;sale;flat;5;18;1;29.5;6000000;;проспект Астрахова;9;Медведково;Лидер Парк
+Метражи group;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308691949/;Мытищи;sale;flat;15;25;1;41.0;6050000;;Ярославское шоссе;105;Медведково;Академик
+Андрей  Бахтин;realtor;https://mytishchi.cian.ru/sale/flat/304680791/;Мытищи;sale;flat;6;9;1;33.8;6100000;;Олимпийский проспект;3к1;Медведково;
+Ольга Романкова;realtor;https://mytishchi.cian.ru/sale/flat/307806862/;Мытищи;sale;flat;2;9;1;34.6;6100000;; Колпакова;36к1;Медведково;
+ASK Estate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308310545/;Мытищи;sale;flat;11;18;1;27.1;6150000;; Кедрина;1;Медведково;Лидер Парк
+Наталья Гудыма;realtor;https://mytishchi.cian.ru/sale/flat/306403200/;Мытищи;sale;flat;4;9;1;34.7;6300000;; Фрунзе;3к1;Медведково;
+Геннадий Костин;realtor;https://mytishchi.cian.ru/sale/flat/297942493/;Мытищи;sale;flat;9;9;1;42.0;6300000;; 3-я Парковая;23;Медведково;
+Trinity;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308264996/;Мытищи;sale;flat;16;17;1;31.6;6300000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+БЕССОНОВ и Партнеры;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302639423/;Мытищи;sale;flat;12;16;1;37.9;6300000;;Олимпийский проспект;18к1;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306453320/;Мытищи;sale;flat;14;22;1;26.5;6400000;; Академика Каргина;23А;Медведково;Отрадный
+Престиж Group;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302083621/;Мытищи;sale;flat;2;5;2;49.2;6400000;; Лермонтова;42;Медведково;
+EstateLiga;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304572510/;Мытищи;sale;flat;3;6;2;34.0;6400000;;бульвар Тенистый;5;Медведково;Императорские Мытищи
+Спецтехнология;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308442171/;Мытищи;sale;flat;17;17;1;35.7;6489999;;проспект Астрахова;5Ак2;Медведково;Новое Медведково
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306661301/;Мытищи;sale;flat;2;5;1;30.2;6490000;; Щербакова;3а;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308070551/;Мытищи;sale;flat;10;18;1;30.6;6400000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+Ольга Шведова;realtor;https://mytishchi.cian.ru/sale/flat/307856018/;Мытищи;sale;flat;11;20;-1;32.0;6400000;;Шараповский проезд;вл2с3;Медведково;
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304576664/;Мытищи;sale;flat;5;5;2;43.1;6400000;; Щербакова;15;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306822340/;Мытищи;sale;flat;3;5;1;34.7;6400000;;бульвар Тенистый;8;Медведково;Императорские Мытищи
+Ольга Шведова;realtor;https://mytishchi.cian.ru/sale/flat/304782391/;Мытищи;sale;flat;11;20;-1;32.0;6400000;;Шараповский проезд;вл2с3;Медведково;
+Марина Гурьянова;realtor;https://mytishchi.cian.ru/sale/flat/305287860/;Мытищи;sale;flat;6;6;1;37.6;6400000;;Осташковское шоссе;22к2;Медведково;Мытищи Lite
+МосГарант;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305570926/;Мытищи;sale;flat;6;10;1;25.4;6400000;;Шараповская ;1к3;Медведково;
+Эльмира Алаева;realtor;https://mytishchi.cian.ru/sale/flat/307846823/;Мытищи;sale;flat;19;20;1;34.09;6400000;; Стрелковая;6;Медведково;Квартал 29
+ID 52109;realtor;https://mytishchi.cian.ru/sale/flat/308695572/;Мытищи;sale;flat;8;9;1;37.8;6500000;;Юбилейная ;35к2;Медведково;
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308710610/;Мытищи;sale;flat;12;17;1;31.4;6500000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308697397/;Мытищи;sale;flat;17;17;1;35.7;6500000;;проспект Астрахова;7;Медведково;Лидер Парк
+НДВ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306940378/;Мытищи;sale;flat;5;6;1;26.6;6500000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Анастасия Мастакова;realtor;https://mytishchi.cian.ru/sale/flat/308849603/;Мытищи;sale;flat;2;5;2;42.3;6500000;; Попова;19;Медведково;
+Эльмира Алаева;realtor;https://mytishchi.cian.ru/sale/flat/307743114/;Мытищи;sale;flat;2;6;1;35.0;6700000;;бульвар Тенистый;13;Медведково;Императорские Мытищи
+Анатолий Тарчинский;realtor;https://mytishchi.cian.ru/sale/flat/308788671/;Мытищи;sale;flat;17;17;1;30.0;6700000;; 2-я Институтская;28;Медведково;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304472177/;Мытищи;sale;flat;14;17;1;30.0;6799000;; Разведчика Абеля;3А;Медведково;Новое Медведково
+Бест офис на Таганской;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307770245/;Мытищи;sale;flat;2;5;2;42.0;6790000;;Юбилейная ;11к1;Медведково;
+МИЭЛЬ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308885685/;Мытищи;sale;flat;9;10;1;38.0;6750000;;Шараповская ;2к2;Медведково;
+Алексей Николаевич Туркин;realtor;https://mytishchi.cian.ru/sale/flat/303952140/;Мытищи;sale;flat;15;17;2;55.6;6750000;; Советская;3А;Медведково;
+Уютный Дом;real_estate_agent;https://mytishchi.cian.ru/sale/flat/291189684/;Мытищи;sale;flat;5;5;1;30.2;6750000;;Новомытищинский проспект;20;Медведково;
+Олег Харченко;realtor;https://mytishchi.cian.ru/sale/flat/307578284/;Мытищи;sale;flat;2;14;1;35.0;6790000;;Индустриальная ;7;Медведково;
+Надежда Половнева;realtor;https://mytishchi.cian.ru/sale/flat/295429362/;Мытищи;sale;flat;2;5;2;45.9;6750000;;Новомытищинский проспект;80к7;Медведково;
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/298727361/;Мытищи;sale;flat;3;9;1;36.5;6800000;;Летная ;16к2;Медведково;
+EMPIRE HOME;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307341272/;Мытищи;sale;flat;10;16;1;35.1;6800000;;Олимпийский проспект;36/4;Медведково;
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303017065/;Мытищи;sale;flat;18;20;1;24.7;6800000;;;12.1;Медведково;Белый Grad ЖК
+Светлана Ким;realtor;https://mytishchi.cian.ru/sale/flat/307555166/;Мытищи;sale;flat;10;20;1;31.1;6800000;;;к11.2;Медведково;Белый Grad ЖК
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307388152/;Мытищи;sale;flat;1;5;2;42.5;6800000;;Новомытищинский проспект;80к1;Медведково;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308231892/;Мытищи;sale;flat;2;2;1;33.0;6800000;; Мира;12;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/298256778/;Мытищи;sale;flat;11;17;1;41.3;6899000;; Стрелковая;6;Медведково;Квартал 29
+Рустам Ерматов;realtor;https://mytishchi.cian.ru/sale/flat/305523924/;Мытищи;sale;flat;5;7;1;38.6;6850000;;бульвар Тенистый;14А;Медведково;Императорские Мытищи
+Ашот Иванович Карапетян;realtor;https://mytishchi.cian.ru/sale/flat/297602746/;Мытищи;sale;flat;2;16;1;35.7;6800000;;Олимпийский проспект;26к2;Медведково;
+Динара Иванова;realtor;https://mytishchi.cian.ru/sale/flat/308231539/;Мытищи;sale;flat;9;9;2;43.0;6800000;мкр. 24; 1-я Пролетарская;9;;
+ОЛСНИП;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308157726/;Мытищи;sale;flat;4;6;1;33.5;6900000;;бульвар Тенистый;13;Медведково;Императорские Мытищи
+Монолит Столица;real_estate_agent;https://mytishchi.cian.ru/sale/flat/298616101/;Мытищи;sale;flat;5;6;1;32.6;6900000;;бульвар Тенистый;13;Медведково;Императорские Мытищи
+Контакт Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305871574/;Мытищи;sale;flat;9;17;1;40.6;6900000;; Стрелковая;21;Медведково;
+Анна Старцева;realtor;https://mytishchi.cian.ru/sale/flat/226803677/;Мытищи;sale;flat;9;9;2;44.1;6900000;; 1-я Пролетарская;7;Медведково;
+ОГРК;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307398897/;Мытищи;sale;flat;8;18;1;41.7;6999999;;проспект Астрахова;7;Медведково;Лидер Парк
+Бест офис на Таганской;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308948698/;Мытищи;sale;flat;4;5;3;56.4;6990000;;Первомайская ;19Б;Медведково;
+Наталья Подоляк;realtor;https://mytishchi.cian.ru/sale/flat/305510330/;Мытищи;sale;flat;8;17;1;36.7;6990000;; Борисовка;8А;Медведково;
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306053900/;Мытищи;sale;flat;7;20;1;30.5;6950000;; Академика Каргина;23А;Медведково;Отрадный
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307717208/;Мытищи;sale;flat;15;20;-1;33.8;6990000;;Шараповский проезд;вл2с3;Медведково;
+Елена Болдина;realtor;https://mytishchi.cian.ru/sale/flat/300258514/;Мытищи;sale;flat;6;18;1;29.0;6999000;;проспект Астрахова;1к1;Медведково;Новое Медведково
+Евгений Крыжановский;realtor;https://mytishchi.cian.ru/sale/flat/306922816/;Мытищи;sale;flat;2;17;1;35.0;6999000;; Кедрина;1;Медведково;Лидер Парк
+Юлия Бударина;realtor;https://mytishchi.cian.ru/sale/flat/297470705/;Мытищи;sale;flat;4;5;2;46.1;6990000;;Новомытищинский проспект;80к3;Медведково;
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308573487/;Мытищи;sale;flat;6;25;1;20.05;7000000;;;2;Медведково;Долина Яузы ЖК
+Самолет Плюс Москва ЦАО;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300648162/;Мытищи;sale;flat;14;16;-1;22.1;7000000;; Колпакова;44;Медведково;
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305873429/;Мытищи;sale;flat;4;6;1;33.5;7000000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Century 21 Premium Property;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300990943/;Мытищи;sale;flat;16;17;1;31.6;7000000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Евгения  Соболева;realtor;https://mytishchi.cian.ru/sale/flat/298434821/;Мытищи;sale;flat;9;9;2;48.3;7000000;;Новомытищинский проспект;43к1;Медведково;
+Николай Горбунов;realtor;https://mytishchi.cian.ru/sale/flat/304708526/;Мытищи;sale;flat;1;12;2;54.0;7000000;;Юбилейная ;15;Медведково;
+Инна Година;realtor;https://mytishchi.cian.ru/sale/flat/300468743/;Мытищи;sale;flat;8;18;1;31.2;7000000;;проспект Астрахова;6;Медведково;Новое Медведково
+Ольга Минина;realtor;https://mytishchi.cian.ru/sale/flat/304980481/;Мытищи;sale;flat;6;27;1;20.2;7020000;;Новомытищинский проспект;4А;Медведково;КИТ
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303376570/;Мытищи;sale;flat;7;10;1;31.2;7000000;мкр. 10;Новомытищинский проспект;62к1;;Атлантис
+Ольга Минина;realtor;https://mytishchi.cian.ru/sale/flat/305508403/;Мытищи;sale;flat;1;9;1;32.6;7050000;;Станционная ;1к1;Медведково;
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306593098/;Мытищи;sale;flat;9;9;1;40.2;7000000;;Олимпийский проспект;2к1;Медведково;
+Наталья Алёхина;realtor;https://mytishchi.cian.ru/sale/flat/304801909/;Мытищи;sale;flat;4;9;1;33.9;7000000;;Олимпийский проспект;24;Медведково;
+ID 546346;homeowner;https://mytishchi.cian.ru/sale/flat/298813624/;Мытищи;sale;flat;3;4;2;43.9;7000000;; Матросова;7;Медведково;
+Гранд Капитал;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307584840/;Мытищи;sale;flat;2;5;2;43.6;7100000;;Новомытищинский проспект;23/7;Медведково;
+Людмила Волгина;realtor;https://mytishchi.cian.ru/sale/flat/306774882/;Мытищи;sale;flat;1;10;1;44.2;7100000;; Семашко;17к1;Медведково;
+Лидия Королева;realtor;https://mytishchi.cian.ru/sale/flat/305320302/;Мытищи;sale;flat;16;17;1;32.0;7100000;;переулок 1-й Стрелковый;1;Медведково;Мытищи Парк
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307346444/;Мытищи;sale;flat;24;26;1;32.4;7300000;;проезд 1-й Щелковский;6;Медведково;Отрадный
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/299957766/;Мытищи;sale;flat;8;17;2;36.1;7300000;;;к4.1;Медведково;Мытищи Парк ЖК
+CRISTAL ESTATE;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308000354/;Мытищи;sale;flat;9;17;1;31.4;7300000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Марина Гурьянова;realtor;https://mytishchi.cian.ru/sale/flat/307338557/;Мытищи;sale;flat;7;10;1;34.3;7300000;; Колпакова;40к3;Медведково;
+Ольга Протченко;realtor;https://mytishchi.cian.ru/sale/flat/296282670/;Мытищи;sale;flat;11;18;1;35.0;7300000;; Кедрина;1;Медведково;Лидер Парк
+РОСБАНК;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304816596/;Мытищи;sale;flat;2;3;3;55.6;7300000;; 4-я Парковая;14;Медведково;
+ВРЕМЯ РЕШЕНИЙ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306398943/;Мытищи;sale;flat;9;9;1;35.5;7400000;;Станционная ;3к3;Медведково;
+СВОЙ ДОМ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/299759644/;Мытищи;sale;flat;3;4;1;37.2;7400000;;Новомытищинский проспект;34/2;Медведково;
+Марина Рязанцева;realtor;https://mytishchi.cian.ru/sale/flat/306232055/;Мытищи;sale;flat;9;16;1;35.0;7400000;; Веры Волошиной;22к1;Медведково;
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308568857/;Мытищи;sale;flat;5;10;1;36.0;7400000;;Летная ;46к3;Медведково;
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308568850/;Мытищи;sale;flat;3;5;1;33.0;7400000;;Трудовая ;16;Медведково;
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305333195/;Мытищи;sale;flat;5;17;1;41.0;7350000;; Стрелковая;17;Медведково;
+Татьяна Рубцова;realtor;https://mytishchi.cian.ru/sale/flat/305224642/;Мытищи;sale;flat;9;17;1;41.9;7400000;; Белобородова;4а;Медведково;
+Александр Неклюдов;realtor;https://mytishchi.cian.ru/sale/flat/294833223/;Мытищи;sale;flat;8;18;1;32.7;7400000;; Кедрина;3;Медведково;Лидер Парк
+Татьяна Карелова;realtor;https://mytishchi.cian.ru/sale/flat/307946885/;Мытищи;sale;flat;3;5;1;32.0;7400000;;Трудовая ;16;Медведково;
+Татьяна Рубцова;realtor;https://mytishchi.cian.ru/sale/flat/308960357/;Мытищи;sale;flat;5;9;2;52.0;7499999;;Олимпийский проспект;3к1;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308145687/;Мытищи;sale;flat;4;17;1;30.9;7450000;;проспект Астрахова;10А;Медведково;Новое Медведково
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308363637/;Мытищи;sale;flat;5;6;1;39.0;7490000;;бульвар Тенистый;11;Медведково;Императорские Мытищи
+Городская недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308585093/;Мытищи;sale;flat;6;17;1;38.0;7490000;; Белобородова;4В;Медведково;
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/287556166/;Мытищи;sale;flat;5;9;1;30.1;7450000;;Олимпийский проспект;13к4;Медведково;
+Роман Дегтярев;realtor;https://mytishchi.cian.ru/sale/flat/300781104/;Мытищи;sale;flat;18;26;1;27.4;7500000;; Борисовка;26;Медведково;Ярославский
+Традиция;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305681571/;Мытищи;sale;flat;8;10;1;37.6;7593000;; Колпакова;40/1;Медведково;
+Людмила Бондаренко;realtor;https://mytishchi.cian.ru/sale/flat/299853975/;Мытищи;sale;flat;4;5;2;44.6;7500000;; Матросова;21/18;Медведково;
+Московские Огни;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308629473/;Мытищи;sale;flat;1;7;1;37.0;7500000;; Красная Слобода;15;Медведково;Мытищи Lite
+Анастасия Мастакова;realtor;https://mytishchi.cian.ru/sale/flat/308250889/;Мытищи;sale;flat;3;5;2;45.0;7500000;;Новомытищинский проспект;33к4;Медведково;
+Анастасия Мастакова;realtor;https://mytishchi.cian.ru/sale/flat/303126734/;Мытищи;sale;flat;3;5;2;45.0;7500000;;Новомытищинский проспект;33к4;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307957866/;Мытищи;sale;flat;17;17;1;36.5;7500000;;Юбилейная ;24а;Медведково;
+МГСН;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308556352/;Мытищи;sale;flat;4;4;2;44.6;7500000;; 3-я Парковая;17;Медведково;
+SRG;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308511388/;Мытищи;sale;flat;3;17;1;36.6;7500000;;проспект Астрахова;10;Медведково;Новое Медведково
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/295070851/;Мытищи;sale;flat;10;17;1;35.1;7500000;;переулок 1-й Стрелковый;1;Медведково;Мытищи Парк
+Слава Полотенцев;realtor;https://mytishchi.cian.ru/sale/flat/307970616/;Мытищи;sale;flat;9;9;3;57.0;7500000;; 1-я Крестьянская;2к2;Медведково;
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/301508508/;Мытищи;sale;flat;11;17;1;38.6;7600000;;проспект Астрахова;12А;Медведково;Новое Медведково
+Артур Геворкян;realtor;https://mytishchi.cian.ru/sale/flat/305532101/;Мытищи;sale;flat;13;19;1;36.2;7635500;;;к35;Медведково;Новое Медведково ЖК
+СВОЙ ДОМ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308708716/;Мытищи;sale;flat;1;5;2;44.1;7600000;;Новомытищинский проспект;45к3;Медведково;
+М.Град;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300578919/;Мытищи;sale;flat;12;27;1;42.0;7600000;; Борисовка;16;Медведково;Ярославский
+Новый Ключ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307094118/;Мытищи;sale;flat;2;9;2;48.0;7600000;;Юбилейная ;3к1;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307827862/;Мытищи;sale;flat;1;5;2;52.0;7600000;; Широкая;6;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305270697/;Мытищи;sale;flat;2;9;2;43.0;7600000;;Летная ;24к1;Медведково;
+Валентина Серебрякова;realtor;https://mytishchi.cian.ru/sale/flat/305726121/;Мытищи;sale;flat;15;17;1;43.7;7600000;;Юбилейная ;44;Медведково;ул. Юбилейная
+NEWPOLIS;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305357288/;Мытищи;sale;flat;14;18;2;41.0;7690000;;проспект Астрахова;14;Медведково;Новое Медведково
+Лилия Линк;realtor;https://mytishchi.cian.ru/sale/flat/308333644/;Мытищи;sale;flat;14;20;1;44.18;7650000;;Юбилейная ;16;Медведково;Ярославский
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308882329/;Мытищи;sale;flat;1;4;2;42.0;7650000;;Институтская ;15А;Медведково;
+На Петровке;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308233707/;Мытищи;sale;flat;12;17;2;34.4;7700000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308014582/;Мытищи;sale;flat;7;17;1;36.0;7690000;;проспект Астрахова;12А;Медведково;Новое Медведково
+Dement City;real_estate_agent;https://mytishchi.cian.ru/sale/flat/299730791/;Мытищи;sale;flat;7;18;1;40.5;7700000;;проспект Астрахова;14Б;Медведково;Новое Медведково
+СмениКварти.Ру;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307922906/;Мытищи;sale;flat;8;9;2;39.6;7650000;; Семашко;41;Медведково;
+Эльмира Алаева;realtor;https://mytishchi.cian.ru/sale/flat/306122257/;Мытищи;sale;flat;7;17;1;35.8;7700000;; Разведчика Абеля;3;Медведково;Новое Медведково
+Марина Токаренко;realtor;https://mytishchi.cian.ru/sale/flat/307057681/;Мытищи;sale;flat;13;17;1;42.0;7700000;;Троицкая ;9;Медведково;
+Регина Абрамчук;realtor;https://mytishchi.cian.ru/sale/flat/308766296/;Мытищи;sale;flat;3;5;2;44.8;7700000;;Новомытищинский проспект;60;Медведково;
+Азбука Жилья;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303621422/;Мытищи;sale;flat;3;17;1;39.2;7800000;;Новомытищинский проспект;62к1;Медведково;
+ВРЕМЯ РЕШЕНИЙ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305557986/;Мытищи;sale;flat;6;17;1;37.9;7790000;; Белобородова;4Б;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302345178/;Мытищи;sale;flat;14;14;1;46.1;7800000;;Троицкая ;9;Медведково;
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308001638/;Мытищи;sale;flat;5;6;2;54.9;7750000;;бульвар Тенистый;1;Медведково;Императорские Мытищи
+ДовганЬ-Групп;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308910880/;Мытищи;sale;flat;16;17;1;36.4;7800000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Юлия Пожитных;realtor;https://mytishchi.cian.ru/sale/flat/300266115/;Мытищи;sale;flat;5;10;2;69.8;7900000;; Тимирязева;4к1;Медведково;Пироговский
+Маленков недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306416447/;Мытищи;sale;flat;3;9;1;36.1;7950000;;Трудовая ;4;Медведково;
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307304114/;Мытищи;sale;flat;4;6;2;50.98;7900000;;бульвар Тенистый;12;Медведково;Императорские Мытищи
+МИЭЛЬ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306550833/;Мытищи;sale;flat;1;12;2;62.7;7900000;; Колпакова;42к1;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306930681/;Мытищи;sale;flat;3;17;2;31.9;7990000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305443847/;Мытищи;sale;flat;3;17;1;35.6;7999999;; Сукромка;26;Медведково;
+i-deal;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307225381/;Мытищи;sale;flat;17;18;1;37.6;7999000;; 2-я Институтская;22;Медведково;Спутник (Мытищи)
+Денис Мазитов;realtor;https://mytishchi.cian.ru/sale/flat/305762100/;Мытищи;sale;flat;10;14;2;52.0;7900000;;Юбилейная ;36к2;Медведково;
+Юлия Цонева;realtor;https://mytishchi.cian.ru/sale/flat/306420977/;Мытищи;sale;flat;3;5;3;58.5;7919191;;Силикатная ;47к4;Медведково;
+Больше метров;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306676115/;Мытищи;sale;flat;4;9;2;43.1;7900000;;Новомытищинский проспект;14;Медведково;
+Три Ступени;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306801659/;Мытищи;sale;flat;4;5;3;57.4;7900000;;проезд 2-й Первомайский;13;Медведково;
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/283930599/;Мытищи;sale;flat;14;17;1;41.7;7920000;; Белобородова;4В;Медведково;
+Эльмира Алаева;realtor;https://mytishchi.cian.ru/sale/flat/308703353/;Мытищи;sale;flat;14;25;1;44.0;7900000;; Борисовка;16а;Медведково;Ярославский
+Татьяна Кравченко;realtor;https://mytishchi.cian.ru/sale/flat/300007829/;Мытищи;sale;flat;12;25;1;44.0;7900000;; Борисовка;24;Медведково;Ярославский
+ВРЕМЯ РЕШЕНИЙ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302032075/;Мытищи;sale;flat;2;6;1;32.0;8000000;;бульвар Тенистый;3;Медведково;Императорские Мытищи
+Инна Година;realtor;https://mytishchi.cian.ru/sale/flat/308926781/;Мытищи;sale;flat;10;17;2;47.9;8000000;; Советская;3А;Медведково;
+Империя недвижимости;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308911063/;Мытищи;sale;flat;9;25;1;42.0;8000000;;Юбилейная ;16;Медведково;Ярославский
+Est-a-Tet – Вторичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308336082/;Мытищи;sale;flat;10;17;1;47.0;8000000;; Мира;30;Медведково;
+Светлана Воронцова;realtor;https://mytishchi.cian.ru/sale/flat/292813262/;Мытищи;sale;flat;5;5;2;58.7;8000000;;Новомытищинский проспект;32;Медведково;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307781137/;Мытищи;sale;flat;14;25;1;41.0;8000000;;Ярославское шоссе;105;Медведково;Академик
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307222891/;Мытищи;sale;flat;4;17;1;36.0;8000000;;проспект Астрахова;1;Медведково;Новое Медведково
+Импульс Плюс;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305168358/;Мытищи;sale;flat;6;19;1;37.6;8000000;; Воронина;16а;Медведково;Рупасовский
+Стоун Бридж эстейт;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300821294/;Мытищи;sale;flat;8;18;2;31.2;8000000;; Стрельбище Динамо;10;Бабушкинская;
+Динара Иванова;realtor;https://mytishchi.cian.ru/sale/flat/307913828/;Мытищи;sale;flat;2;9;2;48.5;8000000;;Новомытищинский проспект;45к1;Медведково;
+Елена Закарая;realtor;https://mytishchi.cian.ru/sale/flat/303033291/;Мытищи;sale;flat;5;19;1;31.4;8000000;;проспект Астрахова;10А;Медведково;Новое Медведково
+Валерий Петров;realtor;https://mytishchi.cian.ru/sale/flat/300120188/;Мытищи;sale;flat;8;16;1;37.0;8000000;; Щербакова;1к1;Медведково;
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308892107/;Мытищи;sale;flat;3;17;1;31.3;8140000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+Монолит Столица;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308297720/;Мытищи;sale;flat;3;17;1;31.9;8050000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+Vershina Real Estate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307848416/;Мытищи;sale;flat;6;9;3;51.0;8300000;; 1-я Крестьянская;2к3;Медведково;
+Самолет Плюс Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304939549/;Мытищи;sale;flat;19;19;1;45.8;8300000;;Ярославское шоссе;107;Медведково;Академик
+Бест офис на Таганской;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307581412/;Мытищи;sale;flat;2;5;3;51.1;8350000;;Новомытищинский проспект;45к4;Медведково;
+ЕГСН Продажа;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308016337/;Мытищи;sale;flat;5;17;2;63.6;8300000;; Стрелковая;21;Медведково;
+Виктория Елфимова;realtor;https://mytishchi.cian.ru/sale/flat/293270698/;Мытищи;sale;flat;6;10;2;73.0;8300000;; Тимирязева;8;Медведково;
+Городок;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307322891/;Мытищи;sale;flat;3;9;2;44.4;8300000;; 1-я Пролетарская;7;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307081183/;Мытищи;sale;flat;4;9;2;50.9;8399000;;Юбилейная ;33;Медведково;
+Ольга Протченко;realtor;https://mytishchi.cian.ru/sale/flat/308708791/;Мытищи;sale;flat;2;12;2;41.0;8300000;;Юбилейная ;5;Медведково;
+Татьяна Кучеровская;realtor;https://mytishchi.cian.ru/sale/flat/308674207/;Мытищи;sale;flat;9;26;1;43.7;8350000;; Борисовка;22;Медведково;Ярославский
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304856020/;Мытищи;sale;flat;4;16;2;50.3;8390000;; Терешковой;2к1;Медведково;
+1ДАН Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/301804324/;Мытищи;sale;flat;5;9;3;62.4;8390000;;Летная ;25;Медведково;
+Татьяна Рощупкина;realtor;https://mytishchi.cian.ru/sale/flat/299515664/;Мытищи;sale;flat;2;17;3;62.73;8350000;; Советская;3А;Медведково;Диалект
+Ирина Чистякова;realtor;https://mytishchi.cian.ru/sale/flat/305684463/;Мытищи;sale;flat;2;5;3;63.4;8300000;;Проезжая ;4;Медведково;
+Полина Питина;realtor;https://mytishchi.cian.ru/sale/flat/304929778/;Мытищи;sale;flat;2;9;3;58.0;8300000;;переулок 1-й Красноармейский;4;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308289837/;Мытищи;sale;flat;1;10;1;53.8;8400000;; 3-я Парковая;25;Медведково;
+Ольга Локтева;realtor;https://mytishchi.cian.ru/sale/flat/308453321/;Мытищи;sale;flat;5;17;1;40.3;8400000;; 2-я Институтская;24;Медведково;Спутник (Мытищи)
+НДВ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307082928/;Мытищи;sale;flat;7;9;2;68.3;8499999;; Тимирязева;5В;Медведково;Пироговский
+Метражи group;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308572314/;Мытищи;sale;flat;7;9;2;44.5;8499999;;Олимпийский проспект;21к5;Медведково;
+ЭТАЖИ Подольск;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307264925/;Мытищи;sale;flat;13;18;2;47.1;8400000;;;к39;Медведково;Новое Медведково ЖК
+Метражи group;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308525180/;Мытищи;sale;flat;4;9;3;57.0;8400000;; Академика Каргина;38к1;Медведково;
+Планета-312;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307045982/;Мытищи;sale;flat;3;9;2;45.8;8490000;; Терешковой;3;Медведково;
+Самолет Плюс Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303327216/;Мытищи;sale;flat;8;24;1;28.3;8500000;;;2;Медведково;Долина Яузы ЖК
+Кремлёвские Ключи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300028167/;Мытищи;sale;flat;8;16;2;41.0;8500000;;Олимпийский проспект;26к4;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303253903/;Мытищи;sale;flat;5;5;3;55.3;8500000;;Юбилейная ;11к3;Медведково;
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305147440/;Мытищи;sale;flat;7;9;2;46.0;8500000;;Олимпийский проспект;4;Медведково;
+МИЦ-Столичный ипотечный центр недвижимости;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304191541/;Мытищи;sale;flat;9;9;3;50.2;8500000;; Академика Каргина;38к3;Медведково;
+Интеллект-Риэлт;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308422107/;Мытищи;sale;flat;9;9;2;37.7;8500000;;Олимпийский проспект;13к4;Медведково;
+Елена Малугина;realtor;https://mytishchi.cian.ru/sale/flat/308821578/;Мытищи;sale;flat;10;15;1;27.0;8500000;; Воровского;10;Медведково;Мытищи-Холл
+МИЭЛЬ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308255827/;Мытищи;sale;flat;5;12;1;38.1;8700000;; Комарова;2к3;Медведково;Гулливер
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308106744/;Мытищи;sale;flat;5;5;2;44.8;8700000;;Индустриальная ;11;Медведково;
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/301679937/;Мытищи;sale;flat;8;17;1;45.2;8700000;; Благовещенская;3;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305870955/;Мытищи;sale;flat;8;17;1;41.6;8700000;;Троицкая ;5;Медведково;
+ВСК Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308768547/;Мытищи;sale;flat;3;9;2;43.5;8700000;; Веры Волошиной;20;Медведково;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308364550/;Мытищи;sale;flat;14;14;1;44.1;8790000;; Белобородова;11к1;Медведково;
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305773380/;Мытищи;sale;flat;6;9;2;66.4;8750000;; Тимирязева;5В;Медведково;Пироговский
+Простор-недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308750646/;Мытищи;sale;flat;5;12;2;47.9;8750000;; Колпакова;26к2;Медведково;Солнечный
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308827474/;Мытищи;sale;flat;16;26;2;43.9;8800000;; Академика Каргина;36Б;Медведково;Отрадный
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300116299/;Мытищи;sale;flat;1;12;2;50.0;8880000;; Комарова;5;Медведково;
+Елена Кортукова;realtor;https://mytishchi.cian.ru/sale/flat/308113489/;Мытищи;sale;flat;4;7;2;48.7;8850000;;бульвар Тенистый;23;Медведково;Императорские Мытищи
+Анастасия Мастакова;realtor;https://mytishchi.cian.ru/sale/flat/306878562/;Мытищи;sale;flat;7;15;1;42.1;8850000;; Колпакова;27;Медведково;
+1ДАН Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307714271/;Мытищи;sale;flat;4;9;3;66.9;8800000;;Новомытищинский проспект;47к1;Медведково;
+Светлана Воронцова;realtor;https://mytishchi.cian.ru/sale/flat/303677616/;Мытищи;sale;flat;2;9;3;55.3;8800000;; Семашко;39;Медведково;
+Игорь Коваль;realtor;https://mytishchi.cian.ru/sale/flat/307038940/;Мытищи;sale;flat;13;18;2;39.4;8800000;;;к39;Медведково;Новое Медведково ЖК
+ID 362689;unknown;https://mytishchi.cian.ru/sale/flat/307138254/;Мытищи;sale;flat;1;10;2;51.3;8800000;; Колпакова;34к2;Медведково;
+Наталья Малышева;realtor;https://mytishchi.cian.ru/sale/flat/306219473/;Мытищи;sale;flat;8;9;2;46.0;8899999;;Новомытищинский проспект;41к1;Медведково;
+ИНФИНИТИ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300737781/;Мытищи;sale;flat;19;20;3;62.7;8990000;; Стрелковая;6;Медведково;Квартал 29
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308895351/;Мытищи;sale;flat;3;9;2;50.8;8900000;;Летная ;44к2;Медведково;
+Александр Кузин;realtor;https://mytishchi.cian.ru/sale/flat/306271721/;Мытищи;sale;flat;10;25;1;48.0;8900000;; Борисовка;14;Медведково;Ярославский
+ЛЮБИМЫЙ ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308595214/;Мытищи;sale;flat;4;14;1;41.2;8900000;; Благовещенская;3;Медведково;
+Наиля Рогозина;realtor;https://mytishchi.cian.ru/sale/flat/308500517/;Мытищи;sale;flat;12;14;1;45.0;8950000;;переулок 1-й Трудовой;7;Медведково;
+Кредит-Центр Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306658492/;Мытищи;sale;flat;5;10;2;52.2;8900000;;Юбилейная ;37к1;Медведково;
+МИЭЛЬ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307307907/;Мытищи;sale;flat;1;9;3;57.7;8900000;;Олимпийский проспект;13к4;Медведково;
+Юрий Фридман;realtor;https://mytishchi.cian.ru/sale/flat/304889039/;Мытищи;sale;flat;17;17;1;43.5;8900000;; Воронина;6;Медведково;
+Наталья Золотова;realtor;https://mytishchi.cian.ru/sale/flat/304898428/;Мытищи;sale;flat;9;18;1;40.2;8900000;; Воронина;14;Медведково;Рупасовский
+Александра Дударева;realtor;https://mytishchi.cian.ru/sale/flat/308571936/;Мытищи;sale;flat;8;9;3;56.0;9000000;; 4-я Парковая;22;Медведково;
+Гранд Капитал;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303542637/;Мытищи;sale;flat;7;10;2;68.7;9000000;;Силикатная ;49к5;Медведково;
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305691537/;Мытищи;sale;flat;12;13;1;37.8;9090000;;Юбилейная ;10;Медведково;Ярославский
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303482036/;Мытищи;sale;flat;9;9;3;55.7;9075000;; Академика Каргина;38к1;Медведково;
+Простор-недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304594272/;Мытищи;sale;flat;12;18;1;33.4;9099000;;;к35;Медведково;Новое Медведково ЖК
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307495450/;Мытищи;sale;flat;14;19;2;44.5;9050000;; Колпакова;24;Медведково;Солнечный
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304317793/;Мытищи;sale;flat;5;15;1;42.0;9000000;; Рождественская;7;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305465269/;Мытищи;sale;flat;17;17;1;40.3;9000000;; Колпакова;29;Медведково;Ядреевский
+Вячеслав Чекалин;realtor;https://mytishchi.cian.ru/sale/flat/305538987/;Мытищи;sale;flat;6;9;3;68.0;9000000;; Академика Каргина;36к4;Медведково;
+Светлана Кошкина;realtor;https://mytishchi.cian.ru/sale/flat/306784349/;Мытищи;sale;flat;18;23;1;36.2;9000000;;Юбилейная ;10;Медведково;Ярославский
+Ирина Плужник;realtor;https://mytishchi.cian.ru/sale/flat/304819911/;Мытищи;sale;flat;10;16;2;54.4;9000000;; Щербакова;1к1;Медведково;
+Елена Белевич;realtor;https://mytishchi.cian.ru/sale/flat/297708744/;Мытищи;sale;flat;5;9;3;61.0;9000000;;Юбилейная ;23к1;Медведково;
+Майя Джомидава;realtor;https://mytishchi.cian.ru/sale/flat/298250453/;Мытищи;sale;flat;8;10;3;68.7;9000000;;Летная ;46к3;Медведково;
+ОГРК;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306437299/;Мытищи;sale;flat;5;5;3;57.0;9100000;;Новомытищинский проспект;80к4;Медведково;
+Нина Коваленко;realtor;https://mytishchi.cian.ru/sale/flat/306068479/;Мытищи;sale;flat;8;9;2;48.1;9100000;;переулок 1-й Красноармейский;4;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308145684/;Мытищи;sale;flat;8;9;3;69.0;9100000;;Летная ;27;Медведково;
+MOD Estate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/293316301/;Мытищи;sale;flat;7;25;1;39.9;9100000;; Колонцова;;Медведково;Яуза парк
+Роман Дегтярев;realtor;https://mytishchi.cian.ru/sale/flat/302708197/;Мытищи;sale;flat;12;27;1;45.7;9100000;; Борисовка;18;Медведково;Ярославский
+Виктория Иванченко;realtor;https://mytishchi.cian.ru/sale/flat/307779760/;Мытищи;sale;flat;14;16;2;55.6;9100000;; Воровского;3;Медведково;
+Самолет Плюс;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306653846/;Мытищи;sale;flat;9;25;1;47.0;9200000;;Юбилейная ;6;Медведково;
+Татьяна Прохорченко;realtor;https://mytishchi.cian.ru/sale/flat/298761767/;Мытищи;sale;flat;4;26;1;37.6;9200000;;Олимпийский проспект;12;Медведково;Отрадный
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305583093/;Мытищи;sale;flat;16;17;1;42.0;9200000;; Колпакова;29;Медведково;Ядреевский
+Парадайс;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307355641/;Мытищи;sale;flat;5;6;2;52.1;9200000;;бульвар Тенистый;21;Медведково;Императорские Мытищи
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307526520/;Мытищи;sale;flat;17;25;2;48.9;9200000;; Академика Каргина;42;Медведково;Академик
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306176865/;Мытищи;sale;flat;4;9;2;49.8;9200000;;Новомытищинский проспект;43к1;Медведково;
+ИМПЕРИЯ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/293968997/;Мытищи;sale;flat;4;9;3;61.3;9200000;; Семашко;19;Медведково;
+Самолет Плюс Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306934385/;Мытищи;sale;flat;9;17;1;34.8;9300000;;;к35;Медведково;Новое Медведково ЖК
+Самолет Плюс Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306934396/;Мытищи;sale;flat;11;17;2;37.9;9300000;;;к35;Медведково;Новое Медведково ЖК
+Центральная Академия Недвижимости;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308548259/;Мытищи;sale;flat;15;17;1;44.0;9310000;; Кадомцева;6;Медведково;Новое Медведково
+Простор-недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304594267/;Мытищи;sale;flat;5;18;2;35.2;9299000;;;к35;Медведково;Новое Медведково ЖК
+ВСК Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308025695/;Мытищи;sale;flat;9;10;2;53.0;9500000;;Ярославское шоссе;111к1;Медведково;
+Юлия Бударина;realtor;https://mytishchi.cian.ru/sale/flat/306185909/;Мытищи;sale;flat;5;25;1;43.0;9450000;; Рождественская;11;Медведково;Ньютон
+Анна Фомина;realtor;https://mytishchi.cian.ru/sale/flat/304156864/;Мытищи;sale;flat;4;11;1;34.1;9500000;; Рождественская;2;Медведково;Рождественский
+Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306602600/;Мытищи;sale;flat;7;17;2;34.7;9555000;; Стрельбище Динамо;10;Бабушкинская;Мытищи Парк
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308053715/;Мытищи;sale;flat;10;10;2;62.0;9550000;;Силикатная ;49к5;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/298867913/;Мытищи;sale;flat;9;9;3;60.0;9600000;; Терешковой;11;Медведково;
+Сергей Гаранин;realtor;https://mytishchi.cian.ru/sale/flat/306751941/;Мытищи;sale;flat;3;19;1;45.0;9600000;;Институтская ;6;Медведково;Комфортный КВАРТАЛ
+Парадайс;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306609918/;Мытищи;sale;flat;5;6;2;52.0;9600000;;бульвар Тенистый;14;Медведково;Императорские Мытищи
+СмениКварти.Ру;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305872529/;Мытищи;sale;flat;17;27;2;46.5;9700000;; Мира;39;Медведково;Ярославский
+Роман Дегтярев;realtor;https://mytishchi.cian.ru/sale/flat/307093614/;Мытищи;sale;flat;7;10;2;61.9;9700000;;Силикатная ;49к5;Медведково;
+Елена Ясенева;realtor;https://mytishchi.cian.ru/sale/flat/304744031/;Мытищи;sale;flat;5;6;2;52.0;9700000;; Красная Слобода;11;Медведково;Мытищи Lite
+Зеленый проспект;real_estate_agent;https://mytishchi.cian.ru/sale/flat/298573293/;Мытищи;sale;flat;5;14;3;61.0;9800000;;Юбилейная ;40к2;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/294509095/;Мытищи;sale;flat;2;12;1;46.9;9799000;; Рождественская;5;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306148283/;Мытищи;sale;flat;9;9;3;54.1;9800000;; 4-я Парковая;24;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304283762/;Мытищи;sale;flat;5;15;2;61.6;9800000;; Колпакова;27;Медведково;
+Анастасия Трофимова;realtor;https://mytishchi.cian.ru/sale/flat/302041420/;Мытищи;sale;flat;9;27;2;49.0;9800000;; Борисовка;18;Медведково;Ярославский
+Нора-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306407483/;Мытищи;sale;flat;17;17;2;52.2;9850000;; 2-я Институтская;18;Медведково;Спутник (Мытищи)
+Аванта плюс;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306259142/;Мытищи;sale;flat;6;6;3;56.0;9850000;;бульвар Тенистый;14;Медведково;Императорские Мытищи
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308248794/;Мытищи;sale;flat;6;6;1;72.0;9900000;;бульвар Тенистый;1;Медведково;Императорские Мытищи
+На Петровке;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303901941/;Мытищи;sale;flat;12;13;1;44.2;9900000;;переулок 2-й Красноармейский;3;Медведково;Губернатор
+CRISTAL ESTATE;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304585615/;Мытищи;sale;flat;9;17;2;56.7;9899000;;проспект Астрахова;14Б;Медведково;Новое Медведково
+Тёплый Дом;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308501443/;Мытищи;sale;flat;8;17;2;50.7;9900000;;Новомытищинский проспект;86к3;Медведково;
+АЯКС;real_estate_agent;https://mytishchi.cian.ru/sale/flat/299547088/;Мытищи;sale;flat;11;17;2;56.7;9850000;;;к39;Медведково;Новое Медведково ЖК
+Эльмира Алаева;realtor;https://mytishchi.cian.ru/sale/flat/306977565/;Мытищи;sale;flat;17;25;1;39.7;9900000;;Новомытищинский проспект;4А;Медведково;КИТ
+Дмитрий Мелентьев;realtor;https://mytishchi.cian.ru/sale/flat/307825751/;Мытищи;sale;flat;9;9;3;69.3;10000000;; Академика Каргина;36;Медведково;
+ID 19508;real_estate_agent;https://mytishchi.cian.ru/sale/flat/297875233/;Мытищи;sale;flat;7;17;2;63.9;9990000;; Советская;1А;Медведково;
+М.Град;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307203913/;Мытищи;sale;flat;4;17;1;37.1;10000000;; Кадомцева;4;Медведково;Новое Медведково
+Татьяна Прохорченко;realtor;https://mytishchi.cian.ru/sale/flat/300643069/;Мытищи;sale;flat;22;27;2;57.1;10000000;; Борисовка;16а;Медведково;Ярославский
+Алла Михайлова;realtor;https://mytishchi.cian.ru/sale/flat/307726495/;Мытищи;sale;flat;18;27;1;39.6;10000000;;Новомытищинский проспект;4А;Медведково;КИТ
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308048000/;Мытищи;sale;flat;2;17;2;55.0;10000000;;проспект Астрахова;7;Медведково;Лидер Парк
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307479120/;Мытищи;sale;flat;4;10;3;68.6;9999999;;проезд 2-й Щелковский;13;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305729620/;Мытищи;sale;flat;5;14;2;50.78;9990000;;переулок 1-й Стрелковый;3;Медведково;Мытищи Парк
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307931782/;Мытищи;sale;flat;15;17;2;51.6;9990000;;Трудовая ;6;Медведково;
+МосГарант;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306673444/;Мытищи;sale;flat;6;9;3;56.3;9950000;; Веры Волошиной;15;Медведково;
+Алина Тимофеева;realtor;https://mytishchi.cian.ru/sale/flat/307521801/;Мытищи;sale;flat;10;17;2;47.5;9999999;;;к39;Медведково;Новое Медведково ЖК
+Твой дом МСК;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308779020/;Мытищи;sale;flat;3;7;3;71.0;10000000;;бульвар Тенистый;9;Медведково;Императорские Мытищи
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308307343/;Мытищи;sale;flat;3;5;2;44.0;10100000;;Летная ;20к3;Медведково;
+Иван Горбачев;realtor;https://mytishchi.cian.ru/sale/flat/306867801/;Мытищи;sale;flat;19;24;2;51.7;10200000;; Мира;45;Медведково;Ярославский
+iC Garant;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300252472/;Мытищи;sale;flat;14;18;2;57.0;10200000;;проспект Астрахова;14;Медведково;Новое Медведково
+Наталия Комбарова;realtor;https://mytishchi.cian.ru/sale/flat/308707743/;Мытищи;sale;flat;9;9;4;67.2;10200000;;Шараповская ;2к1;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/297543109/;Мытищи;sale;flat;14;25;2;61.3;10200000;; Борисовка;28А;Медведково;Ярославский
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/294824367/;Мытищи;sale;flat;2;12;3;80.5;10200000;;Олимпийский проспект;6к2;Медведково;
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/296736057/;Мытищи;sale;flat;6;26;2;45.0;10200000;; Академика Каргина;36Б;Медведково;Отрадный
+Самолет Плюс Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306598803/;Мытищи;sale;flat;11;17;2;43.8;10300000;;;к35;Медведково;Новое Медведково ЖК
+Нина Коваленко;realtor;https://mytishchi.cian.ru/sale/flat/307981581/;Мытищи;sale;flat;5;25;1;49.0;10300000;;Олимпийский проспект;12;Медведково;Отрадный
+ИНФИНИТИ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308635030/;Мытищи;sale;flat;7;17;2;58.5;10300000;;проспект Астрахова;1;Медведково;Новое Медведково
+Простор-недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/301274912/;Мытищи;sale;flat;2;9;3;60.0;10300000;;Новомытищинский проспект;41к1;Медведково;
+Пётр Баля;realtor;https://mytishchi.cian.ru/sale/flat/307887312/;Мытищи;sale;flat;3;4;2;50.2;10250000;; Чапаева;15;Улица Сергея Эйзенштейна;
+Центральный Департамент Недвижимости;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304944536/;Мытищи;sale;flat;6;25;2;60.7;10300000;; Борисовка;28;Медведково;Ярославский
+Эльмира Алаева;realtor;https://mytishchi.cian.ru/sale/flat/307742141/;Мытищи;sale;flat;6;9;3;59.9;10300000;; Фрунзе;3к1;Медведково;
+Александра Игнатьева;realtor;https://mytishchi.cian.ru/sale/flat/303693020/;Мытищи;sale;flat;14;25;2;58.0;10300000;; Борисовка;16;Медведково;Ярославский
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305269258/;Мытищи;sale;flat;12;25;2;48.07;10350000;; Борисовка;14;Медведково;Ярославский
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306452217/;Мытищи;sale;flat;15;25;1;47.1;10400000;; Борисовка;24;Медведково;Ярославский
+Макромир;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302997756/;Мытищи;sale;flat;12;15;2;44.1;10410000;; Мира;;Медведково;Новое Медведково
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308210663/;Мытищи;sale;flat;12;25;1;48.0;10350000;; Борисовка;14;Медведково;Ярославский
+ID 12856475;realtor;https://mytishchi.cian.ru/sale/flat/307990459/;Мытищи;sale;flat;5;13;2;67.0;10390000;; Стрелковая;8;Медведково;Bravo
+Семейные Инвестиции;real_estate_agent;https://mytishchi.cian.ru/sale/flat/290701755/;Мытищи;sale;flat;1;6;2;58.9;10750000;; Красная Слобода;13;Медведково;Мытищи Lite
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/293761328/;Мытищи;sale;flat;1;12;3;72.8;10850000;;Олимпийский проспект;6к2;Медведково;
+Градомиръ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/286204417/;Мытищи;sale;flat;2;7;2;69.5;10850000;; Тимирязева;14;Медведково;
+ГОРОБМЕН;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308015513/;Мытищи;sale;flat;3;4;3;70.4;10800000;;Новомытищинский проспект;82к2;Медведково;
+СВОЙ ДОМ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304819230/;Мытищи;sale;flat;9;17;2;74.7;10850000;; Советская;2А;Медведково;
+Простор-недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303274860/;Мытищи;sale;flat;12;25;3;71.0;10880000;; Борисовка;14;Медведково;Ярославский
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307722941/;Мытищи;sale;flat;17;25;2;57.1;10800000;; Стрелковая;4;Медведково;Квартал 29
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307669046/;Мытищи;sale;flat;3;25;2;57.0;10750000;; Борисовка;16а;Медведково;Ярославский
+Ольга Минина;realtor;https://mytishchi.cian.ru/sale/flat/270360968/;Мытищи;sale;flat;8;10;3;68.3;10800000;; Колпакова;40/2;Медведково;
+Подмосковные вечера;real_estate_agent;https://mytishchi.cian.ru/sale/flat/297053867/;Мытищи;sale;flat;13;25;1;41.0;10800000;; Рождественская;11;Медведково;Ньютон
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303766599/;Мытищи;sale;flat;2;3;2;76.5;10750000;; Клары Цеткин;29;Медведково;
+Екатерина Калтакова;realtor;https://mytishchi.cian.ru/sale/flat/296177065/;Мытищи;sale;flat;15;17;1;48.3;10800000;; 3-я Крестьянская;9;Медведково;
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/301187478/;Мытищи;sale;flat;13;18;2;61.3;10900000;;проспект Астрахова;14;Медведково;Новое Медведково
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308025436/;Мытищи;sale;flat;1;9;4;64.3;10900000;;переулок 1-й Красноармейский;4;Медведково;
+Ольга Горбачева;realtor;https://mytishchi.cian.ru/sale/flat/306732247/;Мытищи;sale;flat;5;5;2;64.0;10900000;; Красная Слобода;9;Медведково;Мытищи Lite
+Классика;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307222469/;Мытищи;sale;flat;12;25;2;58.0;10999999;;Юбилейная ;6;Медведково;Ярославский
+Городская недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308769710/;Мытищи;sale;flat;9;17;1;44.4;10990000;;Октябрьский проспект;6а;Медведково;
+Центральная Служба Недвижимости;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308741071/;Мытищи;sale;flat;11;17;2;60.0;10999000;; Кедрина;1;Медведково;Лидер Парк
+МИЭЛЬ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307826362/;Мытищи;sale;flat;13;25;2;59.0;10900000;;Трудовая ;22;Медведково;улица Трудовая
+Михаил Маркетов;realtor;https://mytishchi.cian.ru/sale/flat/307923130/;Мытищи;sale;flat;9;17;2;50.0;10999990;;проспект Астрахова;7;Медведково;Лидер Парк
+Home Market;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307705853/;Мытищи;sale;flat;13;18;2;59.4;10990000;; Белобородова;4Г;Медведково;
+Евгений Устинов;realtor;https://mytishchi.cian.ru/sale/flat/308350426/;Мытищи;sale;flat;3;9;3;60.2;10990000;;Новомытищинский проспект;82;Медведково;
+Тарлан Асланов;realtor;https://mytishchi.cian.ru/sale/flat/308368152/;Мытищи;sale;flat;3;9;3;70.3;10900000;;Новомытищинский проспект;52;Медведково;
+Дарья Кучмистова;realtor;https://mytishchi.cian.ru/sale/flat/307787267/;Мытищи;sale;flat;14;18;1;49.0;10900000;; Разведчика Абеля;5;Медведково;Новое Медведково
+Самолет Плюс Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306934390/;Мытищи;sale;flat;8;17;2;45.8;11000000;;;к35;Медведково;Новое Медведково ЖК
+ОГРК;real_estate_agent;https://mytishchi.cian.ru/sale/flat/298499380/;Мытищи;sale;flat;9;10;2;68.4;11000000;;проезд 2-й Первомайский;4;Медведково;
+ЕГСН Продажа;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302239215/;Мытищи;sale;flat;5;7;2;60.4;11000000;;бульвар Тенистый;5;Медведково;Императорские Мытищи
+Нина Коваленко;realtor;https://mytishchi.cian.ru/sale/flat/308879269/;Мытищи;sale;flat;2;10;3;72.6;11000000;;Летная ;46к3;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306320397/;Мытищи;sale;flat;1;10;3;79.6;11600000;;Ярославское шоссе;111к1А;Медведково;
+Юрий Тетерин;realtor;https://mytishchi.cian.ru/sale/flat/298251803/;Мытищи;sale;flat;7;9;2;53.5;11550000;;Шараповская ;6к1;Медведково;
+ID 53560726;unknown;https://mytishchi.cian.ru/sale/flat/293579616/;Мытищи;sale;flat;23;25;2;52.0;11600000;; Мира;45;Медведково;Ярославский
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304960864/;Мытищи;sale;flat;8;18;1;38.0;11700000;;проспект Астрахова;14А;Медведково;Новое Медведково
+Аида Алиева;realtor;https://mytishchi.cian.ru/sale/flat/297875995/;Мытищи;sale;flat;8;27;1;39.6;11650000;;Новомытищинский проспект;4А;Медведково;КИТ
+Семейный Риелтор;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306920621/;Мытищи;sale;flat;8;20;2;70.0;11750000;;Юбилейная ;4;Медведково;Ярославский
+Зеленый проспект;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300704686/;Мытищи;sale;flat;6;14;2;59.0;11699000;;Индустриальная ;7к3;Медведково;
+Ольга Минина;realtor;https://mytishchi.cian.ru/sale/flat/294837038/;Мытищи;sale;flat;20;20;2;54.9;11700000;;Шараповский проезд;вл2с3;Медведково;
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305906276/;Мытищи;sale;flat;8;18;2;50.8;11800000;;;;Медведково;Новое Медведково ЖК
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308458934/;Мытищи;sale;flat;24;24;2;61.5;11800000;; Воровского;10;Медведково;Мытищи-Холл
+Олег Сухачев;realtor;https://mytishchi.cian.ru/sale/flat/305310630/;Мытищи;sale;flat;7;18;2;56.0;11850000;; Кедрина;1;Медведково;Лидер Парк
+Илья Шунин;realtor;https://mytishchi.cian.ru/sale/flat/295786603/;Мытищи;sale;flat;14;25;2;64.0;11800000;;Юбилейная ;16;Медведково;Ярославский
+Денис Александров;realtor;https://mytishchi.cian.ru/sale/flat/304116255/;Мытищи;sale;flat;12;25;2;56.7;11800000;;Олимпийский проспект;12;Медведково;Отрадный
+NEEDвижимость Москвы;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307650481/;Мытищи;sale;flat;10;25;2;57.2;11900000;;;1;Медведково;Долина Яузы ЖК
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307986851/;Мытищи;sale;flat;13;18;3;67.4;11900000;;проспект Астрахова;14;Медведково;Новое Медведково
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306830977/;Мытищи;sale;flat;4;17;2;55.0;11900000;;проспект Астрахова;10А;Медведково;Новое Медведково
+Космополис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305823495/;Мытищи;sale;flat;6;25;3;75.0;11990000;;Юбилейная ;16;Медведково;Ярославский
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307065155/;Мытищи;sale;flat;2;17;2;65.0;11990000;;проспект Астрахова;9;Медведково;Лидер Парк
+Анна Швецова;realtor;https://mytishchi.cian.ru/sale/flat/308307664/;Мытищи;sale;flat;12;12;3;67.4;11900000;; Комарова;1/8;Медведково;
+Тёплый Дом;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307093921/;Мытищи;sale;flat;9;18;2;55.9;11999000;;;к39;Медведково;Новое Медведково ЖК
+Елена Ясенева;realtor;https://mytishchi.cian.ru/sale/flat/305950583/;Мытищи;sale;flat;5;6;3;65.0;11990000;; Красная Слобода;7;Медведково;Мытищи Lite
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307521814/;Мытищи;sale;flat;4;14;2;54.0;12000000;; Мира;35;Медведково;Ярославский
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308350167/;Мытищи;sale;flat;3;14;2;68.8;12000000;; Мира;39;Медведково;Ярославский
+Андрей Игумнов;realtor;https://mytishchi.cian.ru/sale/flat/298946245/;Мытищи;sale;flat;3;17;3;76.0;12000000;;Новомытищинский проспект;86к2;Медведково;
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308335999/;Мытищи;sale;flat;11;17;2;61.0;12000000;;Октябрьский проспект;16А;Медведково;
+Марина Захарченко;realtor;https://mytishchi.cian.ru/sale/flat/302705236/;Мытищи;sale;flat;7;17;2;62.6;12000000;; Белобородова;4а;Медведково;
+Метражи group;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307639517/;Мытищи;sale;flat;5;9;3;60.0;12100000;;Олимпийский проспект;15к16;Медведково;
+Роман Дегтярев;realtor;https://mytishchi.cian.ru/sale/flat/308671533/;Мытищи;sale;flat;11;17;2;54.9;12000000;;Юбилейная ;24;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308558660/;Мытищи;sale;flat;6;16;3;63.8;12000000;;Олимпийский проспект;18к1;Медведково;
+Елена Герасева;realtor;https://mytishchi.cian.ru/sale/flat/307458994/;Мытищи;sale;flat;4;9;3;67.4;12000000;; Семашко;25;Медведково;
+Александр Петроченков;realtor;https://mytishchi.cian.ru/sale/flat/306637303/;Мытищи;sale;flat;2;9;3;70.0;12000000;;Станционная ;3к4;Медведково;
+М.Град;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308766625/;Мытищи;sale;flat;7;17;1;44.4;12200000;; Сукромка;3;Медведково;
+Геометрия;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304329656/;Мытищи;sale;flat;6;10;3;63.0;12200000;;Ярославское шоссе;111к2;Медведково;
+Ирина Малышкова;realtor;https://mytishchi.cian.ru/sale/flat/308038467/;Мытищи;sale;flat;9;10;3;63.0;12200000;мкр. Восточная Перловка; Фрунзе;1к1;;
+ИНКОМ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303694228/;Мытищи;sale;flat;11;17;3;78.2;12300000;; Сукромка;21;Медведково;
+Лариса Маркова;realtor;https://mytishchi.cian.ru/sale/flat/308847392/;Мытищи;sale;flat;12;12;2;70.3;12300000;; Колпакова;37;Медведково;
+ГорЖилФонд;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302632773/;Мытищи;sale;flat;1;12;2;68.2;12350000;; Семашко;10к2;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305643901/;Мытищи;sale;flat;2;14;3;70.0;12300000;;Юбилейная ;4;Медведково;Ярославский
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304919682/;Мытищи;sale;flat;9;17;2;57.0;12250000;;проспект Астрахова;10;Медведково;Новое Медведково
+МРИЭЛТОР - офис Отрадное;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300282320/;Мытищи;sale;flat;3;5;3;81.0;12250000;; Щербакова;10;Медведково;
+Green house realty;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302051430/;Мытищи;sale;flat;17;22;3;79.2;12300000;; Борисовка;16;Медведково;Ярославский
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300919317/;Мытищи;sale;flat;8;17;3;82.0;12499000;;Троицкая ;5;Медведково;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308231904/;Мытищи;sale;flat;25;25;2;59.0;12490000;; Мира;35;Медведково;Ярославский
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302453006/;Мытищи;sale;flat;8;17;2;57.6;12400000;;Юбилейная ;24а;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/303976420/;Мытищи;sale;flat;12;17;3;69.0;12490000;;переулок 1-й Стрелковый;1;Медведково;Мытищи Парк
+WHITE BROKER;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302332461/;Мытищи;sale;flat;6;6;-1;92.0;12500000;;бульвар Тенистый;8;Медведково;Императорские Мытищи
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306803101/;Мытищи;sale;flat;2;10;3;84.4;12600000;;Юбилейная ;37к3;Медведково;
+ТСН Владис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305185887/;Мытищи;sale;flat;22;25;3;65.0;12600000;; Академика Каргина;25;Медведково;Отрадный
+Простор-недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302957202/;Мытищи;sale;flat;18;25;3;47.68;12500000;;;1;Медведково;Долина Яузы ЖК
+verestate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305579800/;Мытищи;sale;flat;13;19;3;76.2;12500000;; Борисовка;16;Медведково;Ярославский
+Данил Багров;realtor;https://mytishchi.cian.ru/sale/flat/308686718/;Мытищи;sale;flat;11;19;2;60.0;12500000;; Мира;35;Медведково;Ярославский
+Роман Дыбин;realtor;https://mytishchi.cian.ru/sale/flat/305994842/;Мытищи;sale;flat;3;25;2;63.0;12500000;; Борисовка;28А;Медведково;Ярославский
+Спецтехнология;real_estate_agent;https://mytishchi.cian.ru/sale/flat/301786231/;Мытищи;sale;flat;14;17;2;55.0;12600000;;Трудовая ;6;Медведково;
+МИЭЛЬ;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300017707/;Мытищи;sale;flat;14;14;3;71.7;12500000;;Юбилейная ;36к2;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/302440056/;Мытищи;sale;flat;7;17;3;76.5;12600000;;Юбилейная ;30;Медведково;
+Роман Дегтярев;realtor;https://mytishchi.cian.ru/sale/flat/308257544/;Мытищи;sale;flat;24;27;1;45.9;12500000;; Борисовка;14;Медведково;Ярославский
+VALLI Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304540337/;Мытищи;sale;flat;17;17;3;54.2;13249000;;;к4.1;Медведково;Мытищи Парк ЖК
+Арина Куклева;realtor;https://mytishchi.cian.ru/sale/flat/301044969/;Мытищи;sale;flat;8;9;3;70.3;13200000;;Летная ;34к2;Медведково;
+Арина Куклева;realtor;https://mytishchi.cian.ru/sale/flat/292719672/;Мытищи;sale;flat;8;9;4;70.3;13200000;;Летная ;34к2;Медведково;
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307812918/;Мытищи;sale;flat;3;17;2;53.9;13200000;;проспект Астрахова;4;Медведково;Новое Медведково
+Самолет Плюс МСК-Север;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308944587/;Мытищи;sale;flat;9;12;2;63.98;13390000;; Колпакова;34б;Медведково;Орион
+МосГарант;real_estate_agent;https://mytishchi.cian.ru/sale/flat/296664591/;Мытищи;sale;flat;16;22;2;68.5;13350000;; Академика Каргина;23А;Медведково;Отрадный
+ГОРОД;real_estate_agent;https://mytishchi.cian.ru/sale/flat/300554072/;Мытищи;sale;flat;7;22;2;69.0;13350000;; Академика Каргина;23А;Медведково;Отрадный
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308278853/;Мытищи;sale;flat;3;25;2;70.0;13390000;; Мира;39;Медведково;Ярославский
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307610133/;Мытищи;sale;flat;6;17;2;57.7;13500000;;;к35;Медведково;Новое Медведково ЖК
+Этажи Москва;real_estate_agent;https://mytishchi.cian.ru/sale/flat/305431630/;Мытищи;sale;flat;7;11;2;58.9;13500000;;Новомытищинский проспект;62к1;Медведково;Атлантис
+Сергей Герасимов;realtor;https://mytishchi.cian.ru/sale/flat/305078913/;Мытищи;sale;flat;2;25;3;55.99;13500000;;Шараповский проезд;;Медведково;КИТ 2
+Ольга Малафеева;realtor;https://mytishchi.cian.ru/sale/flat/302091120/;Мытищи;sale;flat;20;25;3;76.6;13500000;; Борисовка;28А;Медведково;Ярославский
+Премиум;real_estate_agent;https://mytishchi.cian.ru/sale/flat/295796849/;Мытищи;sale;flat;7;18;2;60.2;13490000;;Летная ;21;Медведково;Квартал 9-18
+Lucky Estate;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306264919/;Мытищи;sale;flat;13;14;2;70.0;13500000;;Юбилейная ;6;Медведково;Ярославский
+Космополис;real_estate_agent;https://mytishchi.cian.ru/sale/flat/306856099/;Мытищи;sale;flat;2;20;3;98.5;13500000;;Октябрьский проспект;10А;Медведково;Цветочный город
+Ольга Протченко;realtor;https://mytishchi.cian.ru/sale/flat/307388355/;Мытищи;sale;flat;6;27;3;88.1;13500000;; Борисовка;16;Медведково;Ярославский
+МОЯ СТОЛИЦА;real_estate_agent;https://mytishchi.cian.ru/sale/flat/272176316/;Мытищи;sale;flat;13;14;2;70.4;13500000;мкр. Ярославский;Юбилейная ;4;;Ярославский
+Спецтехнология;real_estate_agent;https://mytishchi.cian.ru/sale/flat/307878363/;Мытищи;sale;flat;12;12;2;63.8;13500000;; Колпакова;34б;Медведково;Орион
+РЕФЕРАЛ-Недвижимость;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304902375/;Мытищи;sale;flat;12;17;3;65.0;13500000;; Кедрина;3;Медведково;Лидер Парк
+Ольга Минина;realtor;https://mytishchi.cian.ru/sale/flat/301687592/;Мытищи;sale;flat;14;27;1;45.8;13500000;; Мира;37;Медведково;Ярославский
+BOYKOV Company;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304211483/;Мытищи;sale;flat;13;17;3;76.5;13500000;; Борисовка;4А;Медведково;
+Ольга Минина;realtor;https://mytishchi.cian.ru/sale/flat/298435641/;Мытищи;sale;flat;5;27;2;58.2;13430000;;Новомытищинский проспект;4А;Медведково;КИТ
+Традиция;real_estate_agent;https://mytishchi.cian.ru/sale/flat/308255080/;Мытищи;sale;flat;3;25;3;77.8;13700000;; Борисовка;20а;Медведково;Ярославский
+Елена Смирнова;realtor;https://mytishchi.cian.ru/sale/flat/305407181/;Мытищи;sale;flat;11;15;2;58.4;13700000;; Рождественская;7;Медведково;
+Александр Седов;realtor;https://mytishchi.cian.ru/sale/flat/305296824/;Мытищи;sale;flat;8;17;2;63.0;13900000;;Октябрьский проспект;10А;Медведково;Цветочный город
+Самолет Плюс Мытищи;real_estate_agent;https://mytishchi.cian.ru/sale/flat/304425614/;Мытищи;sale;flat;21;25;3;76.0;13900000;; Стрелковая;4;Медведково;Квартал 29
+Наталья Твердохлебова;realtor;https://mytishchi.cian.ru/sale/flat/307274526/;Мытищи;sale;flat;13;25;3;62.0;13900000;;;16.3;Медведково;Ярославский
+Инна Полоз;realtor;https://mytishchi.cian.ru/sale/flat/308258844/;Мытищи;sale;flat;4;17;3;77.2;13900000;;переулок 1-й Стрелковый;1;Медведково;Мытищи Парк
